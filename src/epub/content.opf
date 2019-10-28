@@ -74,17 +74,59 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
-		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
-		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-departmental-case.xhtml" id="a-departmental-case.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-double-dyed-deceiver.xhtml" id="a-double-dyed-deceiver.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-retrieved-reformation.xhtml" id="a-retrieved-reformation.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/art-and-the-bronco.xhtml" id="art-and-the-bronco.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/cherchez-la-femme.xhtml" id="cherchez-la-femme.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/friends-in-san-rosario.xhtml" id="friends-in-san-rosario.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/next-to-reading-matter.xhtml" id="next-to-reading-matter.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/on-behalf-of-the-management.xhtml" id="on-behalf-of-the-management.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/phoebe.xhtml" id="phoebe.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/roads-of-destiny.xhtml" id="roads-of-destiny.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-discounters-of-money.xhtml" id="the-discounters-of-money.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-emancipation-of-billy.xhtml" id="the-emancipation-of-billy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-enchanted-kiss.xhtml" id="the-enchanted-kiss.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-enchanted-profile.xhtml" id="the-enchanted-profile.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-fourth-in-salvador.xhtml" id="the-fourth-in-salvador.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-guardian-of-the-accolade.xhtml" id="the-guardian-of-the-accolade.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-halberdier-of-the-little-rheinschloss.xhtml" id="the-halberdier-of-the-little-rheinschloss.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lonesome-road.xhtml" id="the-lonesome-road.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-passing-of-black-eagle.xhtml" id="the-passing-of-black-eagle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-renaissance-at-charleroi.xhtml" id="the-renaissance-at-charleroi.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/two-renegades.xhtml" id="two-renegades.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/whistling-dicks-christmas-stocking.xhtml" id="whistling-dicks-christmas-stocking.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="a-departmental-case.xhtml"/>
+		<itemref idref="a-double-dyed-deceiver.xhtml"/>
+		<itemref idref="a-retrieved-reformation.xhtml"/>
+		<itemref idref="art-and-the-bronco.xhtml"/>
+		<itemref idref="cherchez-la-femme.xhtml"/>
+		<itemref idref="friends-in-san-rosario.xhtml"/>
+		<itemref idref="next-to-reading-matter.xhtml"/>
+		<itemref idref="on-behalf-of-the-management.xhtml"/>
+		<itemref idref="phoebe.xhtml"/>
+		<itemref idref="roads-of-destiny.xhtml"/>
+		<itemref idref="the-discounters-of-money.xhtml"/>
+		<itemref idref="the-emancipation-of-billy.xhtml"/>
+		<itemref idref="the-enchanted-kiss.xhtml"/>
+		<itemref idref="the-enchanted-profile.xhtml"/>
+		<itemref idref="the-fourth-in-salvador.xhtml"/>
+		<itemref idref="the-guardian-of-the-accolade.xhtml"/>
+		<itemref idref="the-halberdier-of-the-little-rheinschloss.xhtml"/>
+		<itemref idref="the-lonesome-road.xhtml"/>
+		<itemref idref="the-passing-of-black-eagle.xhtml"/>
+		<itemref idref="the-renaissance-at-charleroi.xhtml"/>
+		<itemref idref="two-renegades.xhtml"/>
+		<itemref idref="whistling-dicks-christmas-stocking.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
