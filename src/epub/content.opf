@@ -75,52 +75,52 @@
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
-		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-3.xhtml" id="chapter-3.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-4.xhtml" id="chapter-4.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-5.xhtml" id="chapter-5.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-6.xhtml" id="chapter-6.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-7.xhtml" id="chapter-7.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-8.xhtml" id="chapter-8.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-9.xhtml" id="chapter-9.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-10.xhtml" id="chapter-10.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-11.xhtml" id="chapter-11.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-12.xhtml" id="chapter-12.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-13.xhtml" id="chapter-13.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-14.xhtml" id="chapter-14.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-15.xhtml" id="chapter-15.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-16.xhtml" id="chapter-16.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-17.xhtml" id="chapter-17.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-18.xhtml" id="chapter-18.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/caught.xhtml" id="caught.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/cupids-exile-number-two.xhtml" id="cupids-exile-number-two.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dicky.xhtml" id="dicky.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/fox-in-the-morning.xhtml" id="fox-in-the-morning.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/masters-of-arts.xhtml" id="masters-of-arts.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/money-maze.xhtml" id="money-maze.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/rouge-et-noir.xhtml" id="rouge-et-noir.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ships.xhtml" id="ships.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/shoes.xhtml" id="shoes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/smith.xhtml" id="smith.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-admiral.xhtml" id="the-admiral.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-flag-paramount.xhtml" id="the-flag-paramount.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lotus-and-the-bottle.xhtml" id="the-lotus-and-the-bottle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-phonograph-and-the-graft.xhtml" id="the-phonograph-and-the-graft.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-proem.xhtml" id="the-proem.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-remnants-of-the-code.xhtml" id="the-remnants-of-the-code.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-shamrock-and-the-palm.xhtml" id="the-shamrock-and-the-palm.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-vitagraphoscope.xhtml" id="the-vitagraphoscope.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/two-recalls.xhtml" id="two-recalls.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="chapter-1.xhtml"/>
-		<itemref idref="chapter-2.xhtml"/>
-		<itemref idref="chapter-3.xhtml"/>
-		<itemref idref="chapter-4.xhtml"/>
-		<itemref idref="chapter-5.xhtml"/>
-		<itemref idref="chapter-6.xhtml"/>
-		<itemref idref="chapter-7.xhtml"/>
-		<itemref idref="chapter-8.xhtml"/>
-		<itemref idref="chapter-9.xhtml"/>
-		<itemref idref="chapter-10.xhtml"/>
-		<itemref idref="chapter-11.xhtml"/>
-		<itemref idref="chapter-12.xhtml"/>
-		<itemref idref="chapter-13.xhtml"/>
-		<itemref idref="chapter-14.xhtml"/>
-		<itemref idref="chapter-15.xhtml"/>
-		<itemref idref="chapter-16.xhtml"/>
-		<itemref idref="chapter-17.xhtml"/>
-		<itemref idref="chapter-18.xhtml"/>
+		<itemref idref="caught.xhtml"/>
+		<itemref idref="cupids-exile-number-two.xhtml"/>
+		<itemref idref="dicky.xhtml"/>
+		<itemref idref="fox-in-the-morning.xhtml"/>
+		<itemref idref="masters-of-arts.xhtml"/>
+		<itemref idref="money-maze.xhtml"/>
+		<itemref idref="rouge-et-noir.xhtml"/>
+		<itemref idref="ships.xhtml"/>
+		<itemref idref="shoes.xhtml"/>
+		<itemref idref="smith.xhtml"/>
+		<itemref idref="the-admiral.xhtml"/>
+		<itemref idref="the-flag-paramount.xhtml"/>
+		<itemref idref="the-lotus-and-the-bottle.xhtml"/>
+		<itemref idref="the-phonograph-and-the-graft.xhtml"/>
 		<itemref idref="the-proem.xhtml"/>
+		<itemref idref="the-remnants-of-the-code.xhtml"/>
+		<itemref idref="the-shamrock-and-the-palm.xhtml"/>
+		<itemref idref="the-vitagraphoscope.xhtml"/>
+		<itemref idref="two-recalls.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
