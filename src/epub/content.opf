@@ -75,7 +75,7 @@
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
-		<item href="text/a-dinner-at-3.xhtml" id="a-dinner-at-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-dinner-at-.xhtml" id="a-dinner-at-.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-fog-in-santone.xhtml" id="a-fog-in-santone.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-ruler-of-men.xhtml" id="a-ruler-of-men.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-snapshot-at-the-president.xhtml" id="a-snapshot-at-the-president.xhtml" media-type="application/xhtml+xml"/>
@@ -95,11 +95,11 @@
 		<item href="text/the-atavism-of-john-tom-little-bear.xhtml" id="the-atavism-of-john-tom-little-bear.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dream.xhtml" id="the-dream.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-friendly-call.xhtml" id="the-friendly-call.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-great-french-detective-in-austin.xhtml" id="the-great-french-detective-in-austin.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-marionettes.xhtml" id="the-marionettes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-marquis-and-miss-sally.xhtml" id="the-marquis-and-miss-sally.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-prisoner-of-zembla.xhtml" id="the-prisoner-of-zembla.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-unprofitable-servant.xhtml" id="the-unprofitable-servant.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/tictocq.xhtml" id="tictocq.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/tracked-to-doom.xhtml" id="tracked-to-doom.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
@@ -107,8 +107,7 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref=".xhtml"/>
-		<itemref idref="a-dinner-at-3.xhtml"/>
+		<itemref idref="a-dinner-at-.xhtml"/>
 		<itemref idref="a-fog-in-santone.xhtml"/>
 		<itemref idref="a-ruler-of-men.xhtml"/>
 		<itemref idref="a-snapshot-at-the-president.xhtml"/>
@@ -125,11 +124,11 @@
 		<itemref idref="the-atavism-of-john-tom-little-bear.xhtml"/>
 		<itemref idref="the-dream.xhtml"/>
 		<itemref idref="the-friendly-call.xhtml"/>
+		<itemref idref="the-great-french-detective-in-austin.xhtml"/>
 		<itemref idref="the-marionettes.xhtml"/>
 		<itemref idref="the-marquis-and-miss-sally.xhtml"/>
 		<itemref idref="the-prisoner-of-zembla.xhtml"/>
 		<itemref idref="the-unprofitable-servant.xhtml"/>
-		<itemref idref="tictocq.xhtml"/>
 		<itemref idref="tracked-to-doom.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
