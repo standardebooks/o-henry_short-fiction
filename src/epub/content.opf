@@ -38,7 +38,7 @@
 		<meta property="se:subject">TAG</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
-		<dc:language>en-GB</dc:language>
+		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2776</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
@@ -74,17 +74,65 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
-		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
-		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-cosmopolite-in-a-cafe.xhtml" id="a-cosmopolite-in-a-cafe.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-service-of-love.xhtml" id="a-service-of-love.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/after-twenty-years.xhtml" id="after-twenty-years.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-adjustment-of-nature.xhtml" id="an-adjustment-of-nature.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-unfinished-story.xhtml" id="an-unfinished-story.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/between-rounds.xhtml" id="between-rounds.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/by-courier.xhtml" id="by-courier.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/from-the-cabbys-seat.xhtml" id="from-the-cabbys-seat.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/lost-on-dress-parade.xhtml" id="lost-on-dress-parade.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/mammon-and-the-archer.xhtml" id="mammon-and-the-archer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/man-about-town.xhtml" id="man-about-town.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/memoirs-of-a-yellow-dog.xhtml" id="memoirs-of-a-yellow-dog.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sisters-of-the-golden-circle.xhtml" id="sisters-of-the-golden-circle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/springtime-a-la-carte.xhtml" id="springtime-a-la-carte.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-brief-debut-of-tildy.xhtml" id="the-brief-debut-of-tildy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-caliph-cupid-and-the-clock.xhtml" id="the-caliph-cupid-and-the-clock.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-coming-out-of-maggie.xhtml" id="the-coming-out-of-maggie.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-cop-and-the-anthem.xhtml" id="the-cop-and-the-anthem.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-furnished-room.xhtml" id="the-furnished-room.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-gift-of-the-magi.xhtml" id="the-gift-of-the-magi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-green-door.xhtml" id="the-green-door.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-love-philtre-of-ikey-schoenstein.xhtml" id="the-love-philtre-of-ikey-schoenstein.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-romance-of-a-busy-broker.xhtml" id="the-romance-of-a-busy-broker.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-skylight-room.xhtml" id="the-skylight-room.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/tobins-palm.xhtml" id="tobins-palm.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="a-cosmopolite-in-a-cafe.xhtml"/>
+		<itemref idref="a-service-of-love.xhtml"/>
+		<itemref idref="after-twenty-years.xhtml"/>
+		<itemref idref="an-adjustment-of-nature.xhtml"/>
+		<itemref idref="an-unfinished-story.xhtml"/>
+		<itemref idref="between-rounds.xhtml"/>
+		<itemref idref="by-courier.xhtml"/>
+		<itemref idref="from-the-cabbys-seat.xhtml"/>
+		<itemref idref="lost-on-dress-parade.xhtml"/>
+		<itemref idref="mammon-and-the-archer.xhtml"/>
+		<itemref idref="man-about-town.xhtml"/>
+		<itemref idref="memoirs-of-a-yellow-dog.xhtml"/>
+		<itemref idref="sisters-of-the-golden-circle.xhtml"/>
+		<itemref idref="springtime-a-la-carte.xhtml"/>
+		<itemref idref="the-brief-debut-of-tildy.xhtml"/>
+		<itemref idref="the-caliph-cupid-and-the-clock.xhtml"/>
+		<itemref idref="the-coming-out-of-maggie.xhtml"/>
+		<itemref idref="the-cop-and-the-anthem.xhtml"/>
+		<itemref idref="the-furnished-room.xhtml"/>
+		<itemref idref="the-gift-of-the-magi.xhtml"/>
+		<itemref idref="the-green-door.xhtml"/>
+		<itemref idref="the-love-philtre-of-ikey-schoenstein.xhtml"/>
+		<itemref idref="the-romance-of-a-busy-broker.xhtml"/>
+		<itemref idref="the-skylight-room.xhtml"/>
+		<itemref idref="tobins-palm.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
