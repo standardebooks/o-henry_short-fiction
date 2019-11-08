@@ -74,17 +74,65 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
-		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
-		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-comedy-in-rubber.xhtml" id="a-comedy-in-rubber.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-lickpenny-lover.xhtml" id="a-lickpenny-lover.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-philistine-in-bohemia.xhtml" id="a-philistine-in-bohemia.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/doughertys-eye-opener.xhtml" id="doughertys-eye-opener.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/extradited-from-bohemia.xhtml" id="extradited-from-bohemia.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/from-each-according-to-his-ability.xhtml" id="from-each-according-to-his-ability.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/little-speck-in-garnered-fruit.xhtml" id="little-speck-in-garnered-fruit.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/nemesis-and-the-candy-man.xhtml" id="nemesis-and-the-candy-man.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/one-thousand-dollars.xhtml" id="one-thousand-dollars.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/roses-ruses-and-romance.xhtml" id="roses-ruses-and-romance.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/squaring-the-circle.xhtml" id="squaring-the-circle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-city-of-dreadful-night.xhtml" id="the-city-of-dreadful-night.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-clarion-call.xhtml" id="the-clarion-call.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-complete-life-of-john-hopkins.xhtml" id="the-complete-life-of-john-hopkins.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-defeat-of-the-city.xhtml" id="the-defeat-of-the-city.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-easter-of-the-soul.xhtml" id="the-easter-of-the-soul.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-fool-killer.xhtml" id="the-fool-killer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-harbinger.xhtml" id="the-harbinger.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-memento.xhtml" id="the-memento.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-plutonian-fire.xhtml" id="the-plutonian-fire.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-rathskeller-and-the-rose.xhtml" id="the-rathskeller-and-the-rose.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-shocks-of-doom.xhtml" id="the-shocks-of-doom.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-voice-of-the-city.xhtml" id="the-voice-of-the-city.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/transients-in-arcadia.xhtml" id="transients-in-arcadia.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/while-the-auto-waits.xhtml" id="while-the-auto-waits.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="a-comedy-in-rubber.xhtml"/>
+		<itemref idref="a-lickpenny-lover.xhtml"/>
+		<itemref idref="a-philistine-in-bohemia.xhtml"/>
+		<itemref idref="doughertys-eye-opener.xhtml"/>
+		<itemref idref="extradited-from-bohemia.xhtml"/>
+		<itemref idref="from-each-according-to-his-ability.xhtml"/>
+		<itemref idref="little-speck-in-garnered-fruit.xhtml"/>
+		<itemref idref="nemesis-and-the-candy-man.xhtml"/>
+		<itemref idref="one-thousand-dollars.xhtml"/>
+		<itemref idref="roses-ruses-and-romance.xhtml"/>
+		<itemref idref="squaring-the-circle.xhtml"/>
+		<itemref idref="the-city-of-dreadful-night.xhtml"/>
+		<itemref idref="the-clarion-call.xhtml"/>
+		<itemref idref="the-complete-life-of-john-hopkins.xhtml"/>
+		<itemref idref="the-defeat-of-the-city.xhtml"/>
+		<itemref idref="the-easter-of-the-soul.xhtml"/>
+		<itemref idref="the-fool-killer.xhtml"/>
+		<itemref idref="the-harbinger.xhtml"/>
+		<itemref idref="the-memento.xhtml"/>
+		<itemref idref="the-plutonian-fire.xhtml"/>
+		<itemref idref="the-rathskeller-and-the-rose.xhtml"/>
+		<itemref idref="the-shocks-of-doom.xhtml"/>
+		<itemref idref="the-voice-of-the-city.xhtml"/>
+		<itemref idref="transients-in-arcadia.xhtml"/>
+		<itemref idref="while-the-auto-waits.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
