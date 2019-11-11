@@ -38,7 +38,7 @@
 		<meta property="se:subject">TAG</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
-		<dc:language>en:US</dc:language>
+		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/postscripts00henr</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
@@ -75,286 +75,228 @@
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
-		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-3.xhtml" id="chapter-3.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-4.xhtml" id="chapter-4.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-5.xhtml" id="chapter-5.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-6.xhtml" id="chapter-6.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-7.xhtml" id="chapter-7.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-8.xhtml" id="chapter-8.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-9.xhtml" id="chapter-9.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-10.xhtml" id="chapter-10.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-11.xhtml" id="chapter-11.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-12.xhtml" id="chapter-12.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-13.xhtml" id="chapter-13.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-14.xhtml" id="chapter-14.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-15.xhtml" id="chapter-15.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-16.xhtml" id="chapter-16.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-17.xhtml" id="chapter-17.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-18.xhtml" id="chapter-18.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-19.xhtml" id="chapter-19.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-20.xhtml" id="chapter-20.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-21.xhtml" id="chapter-21.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-22.xhtml" id="chapter-22.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-23.xhtml" id="chapter-23.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-24.xhtml" id="chapter-24.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-25.xhtml" id="chapter-25.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-26.xhtml" id="chapter-26.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-27.xhtml" id="chapter-27.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-28.xhtml" id="chapter-28.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-29.xhtml" id="chapter-29.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-30.xhtml" id="chapter-30.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-31.xhtml" id="chapter-31.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-32.xhtml" id="chapter-32.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-33.xhtml" id="chapter-33.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-34.xhtml" id="chapter-34.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-35.xhtml" id="chapter-35.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-36.xhtml" id="chapter-36.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-37.xhtml" id="chapter-37.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-38.xhtml" id="chapter-38.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-39.xhtml" id="chapter-39.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-40.xhtml" id="chapter-40.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-41.xhtml" id="chapter-41.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-42.xhtml" id="chapter-42.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-43.xhtml" id="chapter-43.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-44.xhtml" id="chapter-44.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-45.xhtml" id="chapter-45.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-46.xhtml" id="chapter-46.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-47.xhtml" id="chapter-47.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-48.xhtml" id="chapter-48.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-49.xhtml" id="chapter-49.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-50.xhtml" id="chapter-50.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-51.xhtml" id="chapter-51.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-52.xhtml" id="chapter-52.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-53.xhtml" id="chapter-53.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-54.xhtml" id="chapter-54.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-55.xhtml" id="chapter-55.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-56.xhtml" id="chapter-56.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-57.xhtml" id="chapter-57.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-58.xhtml" id="chapter-58.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-59.xhtml" id="chapter-59.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-60.xhtml" id="chapter-60.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-61.xhtml" id="chapter-61.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-62.xhtml" id="chapter-62.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-63.xhtml" id="chapter-63.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-64.xhtml" id="chapter-64.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-65.xhtml" id="chapter-65.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-66.xhtml" id="chapter-66.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-67.xhtml" id="chapter-67.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-68.xhtml" id="chapter-68.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-69.xhtml" id="chapter-69.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-70.xhtml" id="chapter-70.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-71.xhtml" id="chapter-71.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-72.xhtml" id="chapter-72.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-73.xhtml" id="chapter-73.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-74.xhtml" id="chapter-74.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-75.xhtml" id="chapter-75.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-76.xhtml" id="chapter-76.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-77.xhtml" id="chapter-77.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-78.xhtml" id="chapter-78.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-79.xhtml" id="chapter-79.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-80.xhtml" id="chapter-80.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-81.xhtml" id="chapter-81.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-82.xhtml" id="chapter-82.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-83.xhtml" id="chapter-83.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-84.xhtml" id="chapter-84.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-85.xhtml" id="chapter-85.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-86.xhtml" id="chapter-86.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-87.xhtml" id="chapter-87.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-88.xhtml" id="chapter-88.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-89.xhtml" id="chapter-89.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-90.xhtml" id="chapter-90.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-91.xhtml" id="chapter-91.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-92.xhtml" id="chapter-92.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-93.xhtml" id="chapter-93.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-94.xhtml" id="chapter-94.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-95.xhtml" id="chapter-95.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-96.xhtml" id="chapter-96.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-97.xhtml" id="chapter-97.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-98.xhtml" id="chapter-98.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-99.xhtml" id="chapter-99.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-100.xhtml" id="chapter-100.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-101.xhtml" id="chapter-101.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-102.xhtml" id="chapter-102.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-103.xhtml" id="chapter-103.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-104.xhtml" id="chapter-104.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-105.xhtml" id="chapter-105.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-106.xhtml" id="chapter-106.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-107.xhtml" id="chapter-107.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-108.xhtml" id="chapter-108.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-109.xhtml" id="chapter-109.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-110.xhtml" id="chapter-110.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-111.xhtml" id="chapter-111.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-112.xhtml" id="chapter-112.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-113.xhtml" id="chapter-113.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-114.xhtml" id="chapter-114.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-115.xhtml" id="chapter-115.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-116.xhtml" id="chapter-116.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-117.xhtml" id="chapter-117.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-118.xhtml" id="chapter-118.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-119.xhtml" id="chapter-119.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-120.xhtml" id="chapter-120.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-121.xhtml" id="chapter-121.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-122.xhtml" id="chapter-122.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-123.xhtml" id="chapter-123.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-124.xhtml" id="chapter-124.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-125.xhtml" id="chapter-125.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-126.xhtml" id="chapter-126.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-127.xhtml" id="chapter-127.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-128.xhtml" id="chapter-128.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-129.xhtml" id="chapter-129.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-130.xhtml" id="chapter-130.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-131.xhtml" id="chapter-131.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-132.xhtml" id="chapter-132.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-133.xhtml" id="chapter-133.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-134.xhtml" id="chapter-134.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-135.xhtml" id="chapter-135.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-136.xhtml" id="chapter-136.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-cheering-thought.xhtml" id="a-cheering-thought.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-conditional-pardon.xhtml" id="a-conditional-pardon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-disagreement.xhtml" id="a-disagreement.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-fatal-error.xhtml" id="a-fatal-error.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-good-story-spoiled.xhtml" id="a-good-story-spoiled.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-green-hand.xhtml" id="a-green-hand.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-guarded-secret.xhtml" id="a-guarded-secret.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-guess-proof-mystery-story.xhtml" id="a-guess-proof-mystery-story.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-matter-of-loyalty.xhtml" id="a-matter-of-loyalty.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-narrow-escape.xhtml" id="a-narrow-escape.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-personal-insult.xhtml" id="a-personal-insult.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-question-of-direction.xhtml" id="a-question-of-direction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-righteous-outburst.xhtml" id="a-righteous-outburst.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-slight-mistake.xhtml" id="a-slight-mistake.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-sporting-interest.xhtml" id="a-sporting-interest.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-startling-demonstration.xhtml" id="a-startling-demonstration.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-sure-method.xhtml" id="a-sure-method.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-universal-favorite.xhtml" id="a-universal-favorite.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-valedictory.xhtml" id="a-valedictory.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-villainous-trick.xhtml" id="a-villainous-trick.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-years-supply.xhtml" id="a-years-supply.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/after-supper.xhtml" id="after-supper.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-expensive-veracity.xhtml" id="an-expensive-veracity.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-inspiration.xhtml" id="an-inspiration.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-opportunity-declined.xhtml" id="an-opportunity-declined.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-original-idea.xhtml" id="an-original-idea.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-unsuccessful-experiment.xhtml" id="an-unsuccessful-experiment.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-x-ray-fable.xhtml" id="an-x-ray-fable.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/answers-to-inquiries.xhtml" id="answers-to-inquiries.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/bill-nye.xhtml" id="bill-nye.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/board-and-ancestors.xhtml" id="board-and-ancestors.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/book-reviews.xhtml" id="book-reviews.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/buying-a-piano.xhtml" id="buying-a-piano.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/by-easy-stages.xhtml" id="by-easy-stages.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/calculations.xhtml" id="calculations.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/city-perils.xhtml" id="city-perils.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/coming-to-him.xhtml" id="coming-to-him.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/convinced.xhtml" id="convinced.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/correcting-a-great-injustice.xhtml" id="correcting-a-great-injustice.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/even-worse.xhtml" id="even-worse.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/explaining-it.xhtml" id="explaining-it.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/getting-acquainted.xhtml" id="getting-acquainted.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/getting-at-the-facts.xhtml" id="getting-at-the-facts.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/grounds-for-uneasiness.xhtml" id="grounds-for-uneasiness.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/guessed-everything-else.xhtml" id="guessed-everything-else.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/had-a-use-for-it.xhtml" id="had-a-use-for-it.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/her-failing.xhtml" id="her-failing.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/her-mysterious-charm.xhtml" id="her-mysterious-charm.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/her-ruse.xhtml" id="her-ruse.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/his-dilemma.xhtml" id="his-dilemma.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/his-doubt.xhtml" id="his-doubt.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/his-only-opportunity.xhtml" id="his-only-opportunity.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/his-tension.xhtml" id="his-tension.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-it-started.xhtml" id="how-it-started.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/hungry-henrys-ruse.xhtml" id="hungry-henrys-ruse.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/hush-money.xhtml" id="hush-money.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/identified.xhtml" id="identified.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/journalistically-impossible.xhtml" id="journalistically-impossible.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/just-a-little-damp.xhtml" id="just-a-little-damp.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/knew-what-was-needed.xhtml" id="knew-what-was-needed.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/leap-year-advice.xhtml" id="leap-year-advice.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/lucky-either-way.xhtml" id="lucky-either-way.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/marvelous.xhtml" id="marvelous.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/no-help-for-it.xhtml" id="no-help-for-it.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/no-time-to-lose.xhtml" id="no-time-to-lose.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/not-so-much-a-tam-fool.xhtml" id="not-so-much-a-tam-fool.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/one-consolation.xhtml" id="one-consolation.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/recognition.xhtml" id="recognition.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/reconciliation.xhtml" id="reconciliation.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/red-conliris-eloquence.xhtml" id="red-conliris-eloquence.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/relieved.xhtml" id="relieved.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/revenge.xhtml" id="revenge.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ridiculous.xhtml" id="ridiculous.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/slightly-mixed.xhtml" id="slightly-mixed.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/solemn-thoughts.xhtml" id="solemn-thoughts.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/some-ancient-news-notes.xhtml" id="some-ancient-news-notes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/somebody-lied.xhtml" id="somebody-lied.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/something-for-baby.xhtml" id="something-for-baby.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/speaking-of-big-winds.xhtml" id="speaking-of-big-winds.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/taking-no-chances.xhtml" id="taking-no-chances.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-apple.xhtml" id="the-apple.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-bad-man.xhtml" id="the-bad-man.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-colonels-romance.xhtml" id="the-colonels-romance.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-confession-of-a-murderer.xhtml" id="the-confession-of-a-murderer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-cynic.xhtml" id="the-cynic.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-distraction-of-grief.xhtml" id="the-distraction-of-grief.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-good-boy-mostly-in-words-of-one-syllable.xhtml" id="the-good-boy-mostly-in-words-of-one-syllable.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-old-landmark.xhtml" id="the-old-landmark.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-other-side-of-it.xhtml" id="the-other-side-of-it.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-power-of-reputation.xhtml" id="the-power-of-reputation.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-prisoner-of-zembla-by-anthony-hoke.xhtml" id="the-prisoner-of-zembla-by-anthony-hoke.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-rake-off.xhtml" id="the-rake-off.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sensitive-colonel-jay.xhtml" id="the-sensitive-colonel-jay.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-shock.xhtml" id="the-shock.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sporting-editor-on-culture.xhtml" id="the-sporting-editor-on-culture.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-strangers-appeal.xhtml" id="the-strangers-appeal.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sunday-excursionist.xhtml" id="the-sunday-excursionist.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-telegram.xhtml" id="the-telegram.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-winner.xhtml" id="the-winner.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-wounded-veteran.xhtml" id="the-wounded-veteran.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/too-late.xhtml" id="too-late.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/too-wise.xhtml" id="too-wise.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/what-it-was.xhtml" id="what-it-was.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/why-conductors-are-morose.xhtml" id="why-conductors-are-morose.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/why-he-hesitated.xhtml" id="why-he-hesitated.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/willing-to-compromise.xhtml" id="willing-to-compromise.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="chapter-1.xhtml"/>
-		<itemref idref="chapter-2.xhtml"/>
-		<itemref idref="chapter-3.xhtml"/>
-		<itemref idref="chapter-4.xhtml"/>
-		<itemref idref="chapter-5.xhtml"/>
-		<itemref idref="chapter-6.xhtml"/>
-		<itemref idref="chapter-7.xhtml"/>
-		<itemref idref="chapter-8.xhtml"/>
-		<itemref idref="chapter-9.xhtml"/>
-		<itemref idref="chapter-10.xhtml"/>
-		<itemref idref="chapter-11.xhtml"/>
-		<itemref idref="chapter-12.xhtml"/>
-		<itemref idref="chapter-13.xhtml"/>
-		<itemref idref="chapter-14.xhtml"/>
-		<itemref idref="chapter-15.xhtml"/>
-		<itemref idref="chapter-16.xhtml"/>
-		<itemref idref="chapter-17.xhtml"/>
-		<itemref idref="chapter-18.xhtml"/>
-		<itemref idref="chapter-19.xhtml"/>
-		<itemref idref="chapter-20.xhtml"/>
-		<itemref idref="chapter-21.xhtml"/>
-		<itemref idref="chapter-22.xhtml"/>
-		<itemref idref="chapter-23.xhtml"/>
-		<itemref idref="chapter-24.xhtml"/>
-		<itemref idref="chapter-25.xhtml"/>
-		<itemref idref="chapter-26.xhtml"/>
-		<itemref idref="chapter-27.xhtml"/>
-		<itemref idref="chapter-28.xhtml"/>
-		<itemref idref="chapter-29.xhtml"/>
-		<itemref idref="chapter-30.xhtml"/>
-		<itemref idref="chapter-31.xhtml"/>
-		<itemref idref="chapter-32.xhtml"/>
-		<itemref idref="chapter-33.xhtml"/>
-		<itemref idref="chapter-34.xhtml"/>
-		<itemref idref="chapter-35.xhtml"/>
-		<itemref idref="chapter-36.xhtml"/>
-		<itemref idref="chapter-37.xhtml"/>
-		<itemref idref="chapter-38.xhtml"/>
-		<itemref idref="chapter-39.xhtml"/>
-		<itemref idref="chapter-40.xhtml"/>
-		<itemref idref="chapter-41.xhtml"/>
-		<itemref idref="chapter-42.xhtml"/>
-		<itemref idref="chapter-43.xhtml"/>
-		<itemref idref="chapter-44.xhtml"/>
-		<itemref idref="chapter-45.xhtml"/>
-		<itemref idref="chapter-46.xhtml"/>
-		<itemref idref="chapter-47.xhtml"/>
-		<itemref idref="chapter-48.xhtml"/>
-		<itemref idref="chapter-49.xhtml"/>
-		<itemref idref="chapter-50.xhtml"/>
-		<itemref idref="chapter-51.xhtml"/>
-		<itemref idref="chapter-52.xhtml"/>
-		<itemref idref="chapter-53.xhtml"/>
-		<itemref idref="chapter-54.xhtml"/>
-		<itemref idref="chapter-55.xhtml"/>
-		<itemref idref="chapter-56.xhtml"/>
-		<itemref idref="chapter-57.xhtml"/>
-		<itemref idref="chapter-58.xhtml"/>
-		<itemref idref="chapter-59.xhtml"/>
-		<itemref idref="chapter-60.xhtml"/>
-		<itemref idref="chapter-61.xhtml"/>
-		<itemref idref="chapter-62.xhtml"/>
-		<itemref idref="chapter-63.xhtml"/>
-		<itemref idref="chapter-64.xhtml"/>
-		<itemref idref="chapter-65.xhtml"/>
-		<itemref idref="chapter-66.xhtml"/>
-		<itemref idref="chapter-67.xhtml"/>
-		<itemref idref="chapter-68.xhtml"/>
-		<itemref idref="chapter-69.xhtml"/>
-		<itemref idref="chapter-70.xhtml"/>
-		<itemref idref="chapter-71.xhtml"/>
-		<itemref idref="chapter-72.xhtml"/>
-		<itemref idref="chapter-73.xhtml"/>
-		<itemref idref="chapter-74.xhtml"/>
-		<itemref idref="chapter-75.xhtml"/>
-		<itemref idref="chapter-76.xhtml"/>
-		<itemref idref="chapter-77.xhtml"/>
-		<itemref idref="chapter-78.xhtml"/>
-		<itemref idref="chapter-79.xhtml"/>
-		<itemref idref="chapter-80.xhtml"/>
-		<itemref idref="chapter-81.xhtml"/>
-		<itemref idref="chapter-82.xhtml"/>
-		<itemref idref="chapter-83.xhtml"/>
-		<itemref idref="chapter-84.xhtml"/>
-		<itemref idref="chapter-85.xhtml"/>
-		<itemref idref="chapter-86.xhtml"/>
-		<itemref idref="chapter-87.xhtml"/>
-		<itemref idref="chapter-88.xhtml"/>
-		<itemref idref="chapter-89.xhtml"/>
-		<itemref idref="chapter-90.xhtml"/>
-		<itemref idref="chapter-91.xhtml"/>
-		<itemref idref="chapter-92.xhtml"/>
-		<itemref idref="chapter-93.xhtml"/>
-		<itemref idref="chapter-94.xhtml"/>
-		<itemref idref="chapter-95.xhtml"/>
-		<itemref idref="chapter-96.xhtml"/>
-		<itemref idref="chapter-97.xhtml"/>
-		<itemref idref="chapter-98.xhtml"/>
-		<itemref idref="chapter-99.xhtml"/>
-		<itemref idref="chapter-100.xhtml"/>
-		<itemref idref="chapter-101.xhtml"/>
-		<itemref idref="chapter-102.xhtml"/>
-		<itemref idref="chapter-103.xhtml"/>
-		<itemref idref="chapter-104.xhtml"/>
-		<itemref idref="chapter-105.xhtml"/>
-		<itemref idref="chapter-106.xhtml"/>
-		<itemref idref="chapter-107.xhtml"/>
-		<itemref idref="chapter-108.xhtml"/>
-		<itemref idref="chapter-109.xhtml"/>
-		<itemref idref="chapter-110.xhtml"/>
-		<itemref idref="chapter-111.xhtml"/>
-		<itemref idref="chapter-112.xhtml"/>
-		<itemref idref="chapter-113.xhtml"/>
-		<itemref idref="chapter-114.xhtml"/>
-		<itemref idref="chapter-115.xhtml"/>
-		<itemref idref="chapter-116.xhtml"/>
-		<itemref idref="chapter-117.xhtml"/>
-		<itemref idref="chapter-118.xhtml"/>
-		<itemref idref="chapter-119.xhtml"/>
-		<itemref idref="chapter-120.xhtml"/>
-		<itemref idref="chapter-121.xhtml"/>
-		<itemref idref="chapter-122.xhtml"/>
-		<itemref idref="chapter-123.xhtml"/>
-		<itemref idref="chapter-124.xhtml"/>
-		<itemref idref="chapter-125.xhtml"/>
-		<itemref idref="chapter-126.xhtml"/>
-		<itemref idref="chapter-127.xhtml"/>
-		<itemref idref="chapter-128.xhtml"/>
-		<itemref idref="chapter-129.xhtml"/>
-		<itemref idref="chapter-130.xhtml"/>
-		<itemref idref="chapter-131.xhtml"/>
-		<itemref idref="chapter-132.xhtml"/>
-		<itemref idref="chapter-133.xhtml"/>
-		<itemref idref="chapter-134.xhtml"/>
-		<itemref idref="chapter-135.xhtml"/>
-		<itemref idref="chapter-136.xhtml"/>
+		<itemref idref="a-cheering-thought.xhtml"/>
+		<itemref idref="a-conditional-pardon.xhtml"/>
+		<itemref idref="a-disagreement.xhtml"/>
+		<itemref idref="a-fatal-error.xhtml"/>
+		<itemref idref="a-good-story-spoiled.xhtml"/>
+		<itemref idref="a-green-hand.xhtml"/>
+		<itemref idref="a-guarded-secret.xhtml"/>
+		<itemref idref="a-guess-proof-mystery-story.xhtml"/>
+		<itemref idref="a-matter-of-loyalty.xhtml"/>
+		<itemref idref="a-narrow-escape.xhtml"/>
+		<itemref idref="a-personal-insult.xhtml"/>
+		<itemref idref="a-question-of-direction.xhtml"/>
+		<itemref idref="a-righteous-outburst.xhtml"/>
+		<itemref idref="a-slight-mistake.xhtml"/>
+		<itemref idref="a-sporting-interest.xhtml"/>
+		<itemref idref="a-startling-demonstration.xhtml"/>
+		<itemref idref="a-sure-method.xhtml"/>
+		<itemref idref="a-universal-favorite.xhtml"/>
+		<itemref idref="a-valedictory.xhtml"/>
+		<itemref idref="a-villainous-trick.xhtml"/>
+		<itemref idref="a-years-supply.xhtml"/>
+		<itemref idref="after-supper.xhtml"/>
+		<itemref idref="an-expensive-veracity.xhtml"/>
+		<itemref idref="an-inspiration.xhtml"/>
+		<itemref idref="an-opportunity-declined.xhtml"/>
+		<itemref idref="an-original-idea.xhtml"/>
+		<itemref idref="an-unsuccessful-experiment.xhtml"/>
+		<itemref idref="an-x-ray-fable.xhtml"/>
+		<itemref idref="answers-to-inquiries.xhtml"/>
+		<itemref idref="bill-nye.xhtml"/>
+		<itemref idref="board-and-ancestors.xhtml"/>
+		<itemref idref="book-reviews.xhtml"/>
+		<itemref idref="buying-a-piano.xhtml"/>
+		<itemref idref="by-easy-stages.xhtml"/>
+		<itemref idref="calculations.xhtml"/>
+		<itemref idref="city-perils.xhtml"/>
+		<itemref idref="coming-to-him.xhtml"/>
+		<itemref idref="convinced.xhtml"/>
+		<itemref idref="correcting-a-great-injustice.xhtml"/>
+		<itemref idref="even-worse.xhtml"/>
+		<itemref idref="explaining-it.xhtml"/>
+		<itemref idref="getting-acquainted.xhtml"/>
+		<itemref idref="getting-at-the-facts.xhtml"/>
+		<itemref idref="grounds-for-uneasiness.xhtml"/>
+		<itemref idref="guessed-everything-else.xhtml"/>
+		<itemref idref="had-a-use-for-it.xhtml"/>
+		<itemref idref="her-failing.xhtml"/>
+		<itemref idref="her-mysterious-charm.xhtml"/>
+		<itemref idref="her-ruse.xhtml"/>
+		<itemref idref="his-dilemma.xhtml"/>
+		<itemref idref="his-doubt.xhtml"/>
+		<itemref idref="his-only-opportunity.xhtml"/>
+		<itemref idref="his-tension.xhtml"/>
+		<itemref idref="how-it-started.xhtml"/>
+		<itemref idref="hungry-henrys-ruse.xhtml"/>
+		<itemref idref="hush-money.xhtml"/>
+		<itemref idref="identified.xhtml"/>
+		<itemref idref="journalistically-impossible.xhtml"/>
+		<itemref idref="just-a-little-damp.xhtml"/>
+		<itemref idref="knew-what-was-needed.xhtml"/>
+		<itemref idref="leap-year-advice.xhtml"/>
+		<itemref idref="lucky-either-way.xhtml"/>
+		<itemref idref="marvelous.xhtml"/>
+		<itemref idref="no-help-for-it.xhtml"/>
+		<itemref idref="no-time-to-lose.xhtml"/>
+		<itemref idref="not-so-much-a-tam-fool.xhtml"/>
+		<itemref idref="one-consolation.xhtml"/>
+		<itemref idref="recognition.xhtml"/>
+		<itemref idref="reconciliation.xhtml"/>
+		<itemref idref="red-conliris-eloquence.xhtml"/>
+		<itemref idref="relieved.xhtml"/>
+		<itemref idref="revenge.xhtml"/>
+		<itemref idref="ridiculous.xhtml"/>
+		<itemref idref="slightly-mixed.xhtml"/>
+		<itemref idref="solemn-thoughts.xhtml"/>
+		<itemref idref="some-ancient-news-notes.xhtml"/>
+		<itemref idref="somebody-lied.xhtml"/>
+		<itemref idref="something-for-baby.xhtml"/>
+		<itemref idref="speaking-of-big-winds.xhtml"/>
+		<itemref idref="taking-no-chances.xhtml"/>
+		<itemref idref="the-apple.xhtml"/>
+		<itemref idref="the-bad-man.xhtml"/>
+		<itemref idref="the-colonels-romance.xhtml"/>
+		<itemref idref="the-confession-of-a-murderer.xhtml"/>
+		<itemref idref="the-cynic.xhtml"/>
+		<itemref idref="the-distraction-of-grief.xhtml"/>
+		<itemref idref="the-good-boy-mostly-in-words-of-one-syllable.xhtml"/>
+		<itemref idref="the-old-landmark.xhtml"/>
+		<itemref idref="the-other-side-of-it.xhtml"/>
+		<itemref idref="the-power-of-reputation.xhtml"/>
+		<itemref idref="the-prisoner-of-zembla-by-anthony-hoke.xhtml"/>
+		<itemref idref="the-rake-off.xhtml"/>
+		<itemref idref="the-sensitive-colonel-jay.xhtml"/>
+		<itemref idref="the-shock.xhtml"/>
+		<itemref idref="the-sporting-editor-on-culture.xhtml"/>
+		<itemref idref="the-strangers-appeal.xhtml"/>
+		<itemref idref="the-sunday-excursionist.xhtml"/>
+		<itemref idref="the-telegram.xhtml"/>
+		<itemref idref="the-winner.xhtml"/>
+		<itemref idref="the-wounded-veteran.xhtml"/>
+		<itemref idref="too-late.xhtml"/>
+		<itemref idref="too-wise.xhtml"/>
+		<itemref idref="what-it-was.xhtml"/>
+		<itemref idref="why-conductors-are-morose.xhtml"/>
+		<itemref idref="why-he-hesitated.xhtml"/>
+		<itemref idref="willing-to-compromise.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>

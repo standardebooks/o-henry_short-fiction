@@ -1,12 +1,16 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
 }
 
-[epub|type~="epigraph"] em,
 [epub|type~="epigraph"] i{
 	font-style: normal;
 }
@@ -28,14 +32,65 @@ section > header [epub|type~="epigraph"]{
 	text-align: left;
 }
 
-section > header [epub|type~="epigraph"] + *{
-	margin-top: 3em;
-}
-
 @supports(display: table){
 	section > header [epub|type~="epigraph"]{
 		display: table;
 	}
+}
+
+[epub|type~="z3998:poem"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
+
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:poem"] + p{
+	text-indent: 0;
+}
+
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
+}
+
+p span.i2{
+	text-indent: -1em;
+	padding-left: 3em;
+}
+
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:recipient"],
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+
+.signature{
+	font-variant: small-caps;
 }
 
 [epub|type~="z3998:drama"] tr:first-child td{
@@ -75,10 +130,6 @@ section > header [epub|type~="epigraph"] + *{
 	font-style: italic;
 }
 
-[epub|type~="z3998:stage-direction"] i{
-	font-style: normal;
-}
-
 [epub|type~="z3998:stage-direction"]::before{
 	content: "(";
 	font-style: normal;
@@ -91,23 +142,4 @@ section > header [epub|type~="epigraph"] + *{
 
 [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
-}
-
-tr.together td{
-	padding: 0 .5em 0 0;
-	vertical-align: middle;
-}
-
-tr.together td:only-child,
-tr.together td + td{
-	border-left: 1px solid;
-}
-
-[epub|type~="z3998:drama"] .together td:last-child{
-	padding-left: .5em;
-}
-
-.together + .together td[rowspan],
-.together + .together td[rowspan] + td{
-	padding-top: .5em;
 }
