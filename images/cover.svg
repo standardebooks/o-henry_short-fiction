@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1400 2100">
-<<<<<<< HEAD
 	<title>The cover for the Standard Ebooks edition of Short Fiction, by O. Henry</title>
-=======
-	<title>The cover for the Standard Ebooks edition of Rolling Stones, by O. Henry</title>
->>>>>>> rolling-stones/master
 	<style type="text/css">
 		.title-box{
 			fill-opacity: .75;
@@ -27,10 +23,6 @@
 	</style>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
 	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
-<<<<<<< HEAD
 	<text class="title" x="700" y="1825">SHORT FICTION</text>
-=======
-	<text class="title" x="700" y="1825">ROLLING STONES</text>
->>>>>>> rolling-stones/master
 	<text class="author" x="700" y="1925">O. HENRY</text>
 </svg>
