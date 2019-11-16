@@ -10,6 +10,22 @@ abbr.era{
 	font-variant: all-small-caps;
 }
 
+table{
+	margin: 1em auto;
+}
+
+tr:last-child td:last-child{
+	border-top: 1px solid;
+}
+
+td:first-child{
+	padding-right: 2em;
+}
+
+td:last-child{
+	text-align: right;
+}
+
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
