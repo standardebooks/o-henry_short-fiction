@@ -26,6 +26,15 @@ td:last-child{
 	text-align: right;
 }
 
+#the-proem blockquote p{
+	font-variant: all-small-caps;
+	text-align: center;
+}
+
+#the-rose-of-dixie blockquote p{
+	text-align: center;
+}
+
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
