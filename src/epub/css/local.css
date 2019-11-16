@@ -1,6 +1,43 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
+[epub|type~="epigraph"]{
+	font-style: italic;
+	hyphens: none;
+}
+
+[epub|type~="epigraph"] i{
+	font-style: normal;
+}
+
+[epub|type~="epigraph"] cite{
+	margin-top: 1em;
+	font-style: normal;
+	font-variant: small-caps;
+}
+
+[epub|type~="epigraph"] cite i{
+	font-style: italic;
+}
+
+section > header [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: left;
+}
+
+@supports(display: table){
+	section > header [epub|type~="epigraph"]{
+		display: table;
+	}
+}
+
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p{
 	text-align: left;
@@ -24,6 +61,10 @@
 	text-indent: 0;
 }
 
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
 p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
@@ -37,4 +78,77 @@ p span.i2{
 p span.i3{
 	text-indent: -1em;
 	padding-left: 4em;
+}
+
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:recipient"],
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+.signature{
+	font-variant: small-caps;
+}
+
+[epub|type~="z3998:drama"] tr:first-child td{
+	padding-top: 0;
+}
+
+[epub|type~="z3998:drama"] tr:last-child td{
+	padding-bottom: 0;
+}
+
+[epub|type~="z3998:drama"] td{
+	vertical-align: top;
+	padding: .5em;
+}
+
+[epub|type~="z3998:drama"] td:last-child{
+	padding-right: 0;
+}
+
+[epub|type~="z3998:drama"] td:first-child{
+	padding-left: 0;
+}
+
+[epub|type~="z3998:drama"] td[epub|type~="z3998:persona"]{
+	hyphens: none;
+	text-align: right;
+	width: 20%;
+}
+
+[epub|type~="z3998:drama"] table{
+	margin: 1em auto;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+[epub|type~="z3998:stage-direction"]{
+	font-style: italic;
+}
+
+[epub|type~="z3998:stage-direction"]::before{
+	content: "(";
+	font-style: normal;
+}
+
+[epub|type~="z3998:stage-direction"]::after{
+	content: ")";
+	font-style: normal;
+}
+
+[epub|type~="z3998:persona"]{
+	font-variant: all-small-caps;
 }
