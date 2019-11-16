@@ -6,6 +6,10 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+abbr.era{
+	font-variant: all-small-caps;
+}
+
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
