@@ -151,6 +151,7 @@
 		<item href="text/a-narrow-escape.xhtml" id="a-narrow-escape.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-newspaper-story.xhtml" id="a-newspaper-story.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-night-in-new-arabia.xhtml" id="a-night-in-new-arabia.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-pastel.xhtml" id="a-pastel.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-personal-insult.xhtml" id="a-personal-insult.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-philistine-in-bohemia.xhtml" id="a-philistine-in-bohemia.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-poor-rule.xhtml" id="a-poor-rule.xhtml" media-type="application/xhtml+xml"/>
@@ -179,7 +180,6 @@
 		<item href="text/after-twenty-years.xhtml" id="after-twenty-years.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-adjustment-of-nature.xhtml" id="an-adjustment-of-nature.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-afternoon-miracle.xhtml" id="an-afternoon-miracle.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/an-apology.xhtml" id="an-apology.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-expensive-veracity.xhtml" id="an-expensive-veracity.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-inspiration.xhtml" id="an-inspiration.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-opportunity-declined.xhtml" id="an-opportunity-declined.xhtml" media-type="application/xhtml+xml"/>
@@ -510,18 +510,30 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<!-- from 1883 letter, from Rolling Stones -->
 		<itemref idref="lord-oakhursts-curse.xhtml"/>
+		<!-- The Rolling Stone 1894, from Rolling Stones -->
 		<itemref idref="bexar-scrip-no-2692.xhtml"/>
+		<!-- The Rolling Stone 1894, from Rolling Stones -->
 		<itemref idref="queries-and-answers.xhtml"/>
+		<!-- The Rolling Stone 1894, from Rolling Stones -->
 		<itemref idref="aristocracy-versus-hash.xhtml"/>
+		<!-- The Rolling Stone 1894, from Rolling Stones -->
 		<itemref idref="fickle-fortune-or-how-gladys-hustled.xhtml"/>
+		<!-- The Rolling Stone 1894, from Rolling Stones -->
 		<itemref idref="a-strange-story.xhtml"/>
+		<!-- The Rolling Stone 1894, from Rolling Stones -->
 		<itemref idref="the-prisoner-of-zembla-by-anthony-hoke.xhtml"/>
+		<!-- The Rolling Stone 1894, from Rolling Stones -->
 		<itemref idref="the-great-french-detective-in-austin.xhtml"/>
 		<itemref idref="tracked-to-doom.xhtml"/>
+		<!-- The Rolling Stone 1894, from Rolling Stones -->
 		<itemref idref="a-snapshot-at-the-president.xhtml"/>
+		<!-- The Rolling Stone 1894, from O Henryana -->
 		<itemref idref="three-paragraphs.xhtml"/>
+		<!-- The Rolling Stone v2n2 1895-02-02, from O Henryana -->
 		<itemref idref="a-lunar-episode.xhtml"/>
+	<!-- Houston Post 1895-6, from Postscripts -->
 		<itemref idref="the-sensitive-colonel-jay.xhtml"/>
 		<itemref idref="taking-no-chances.xhtml"/>
 		<itemref idref="a-matter-of-loyalty.xhtml"/>
@@ -629,271 +641,529 @@
 		<itemref idref="knew-what-was-needed.xhtml"/>
 		<itemref idref="some-ancient-news-notes.xhtml"/>
 		<itemref idref="a-sure-method.xhtml"/>
-		<itemref idref="whistling-dicks-christmas-stocking.xhtml"/>
-		<itemref idref="georgias-ruling.xhtml"/>
-		<itemref idref="bulgers-friend.xhtml"/>
-		<itemref idref="a-blackjack-bargainer.xhtml"/>
-		<itemref idref="the-duplicity-of-hargraves.xhtml"/>
-		<itemref idref="the-passing-of-black-eagle.xhtml"/>
-		<itemref idref="cherchez-la-femme.xhtml"/>
-		<itemref idref="friends-in-san-rosario.xhtml"/>
-		<itemref idref="the-marionettes.xhtml"/>
-		<itemref idref="by-courier.xhtml"/>
-		<itemref idref="madame-bo-peep-of-the-ranches.xhtml"/>
-		<itemref idref="an-afternoon-miracle.xhtml"/>
-		<itemref idref="a-call-loan.xhtml"/>
-		<itemref idref="the-struggle-of-the-outliers.xhtml"/>
-		<itemref idref="a-professional-secret.xhtml"/>
-		<itemref idref="cupid-a-la-carte.xhtml"/>
-		<itemref idref="a-departmental-case.xhtml"/>
-		<itemref idref="round-the-circle.xhtml"/>
-		<itemref idref="the-cactus.xhtml"/>
-		<itemref idref="the-renaissance-at-charleroi.xhtml"/>
-		<itemref idref="hearts-and-hands.xhtml"/>
-		<itemref idref="a-ghost-of-a-chance.xhtml"/>
-		<itemref idref="art-and-the-bronco.xhtml"/>
-		<itemref idref="hygeia-at-the-solito.xhtml"/>
-		<itemref idref="sound-and-fury.xhtml"/>
-    	<itemref idref="roads-of-destiny.xhtml"/>
-		<itemref idref="the-robe-of-peace.xhtml"/>
-		<itemref idref="a-retrieved-reformation.xhtml"/>
-		<itemref idref="one-dollars-worth.xhtml"/>
-		<itemref idref="while-the-auto-waits.xhtml"/>
-		<itemref idref="the-guardian-of-the-accolade.xhtml"/>
-		<itemref idref="october-and-june.xhtml"/>
-		<itemref idref="the-marquis-and-miss-sally.xhtml"/>
-		<itemref idref="out-of-nazareth.xhtml"/>
-		<itemref idref="the-atavism-of-john-tom-little-bear.xhtml"/>
-		<itemref idref="the-whirligig-of-life.xhtml"/>
-		<itemref idref="the-fourth-in-salvador.xhtml"/>
-		<itemref idref="jimmy-hayes-and-muriel.xhtml"/>
-		<itemref idref="tobins-palm.xhtml"/>
-		<itemref idref="the-lonesome-road.xhtml"/>
-		<itemref idref="confessions-of-a-humorist.xhtml"/>
-		<itemref idref="at-arms-with-morpheus.xhtml"/>
-		<itemref idref="the-princess-and-the-puma.xhtml"/>
-		<itemref idref="a-chaparral-christmas-gift.xhtml"/>
-		<itemref idref="the-sphinx-apple.xhtml"/>
-		<itemref idref="the-pimienta-pancakes.xhtml"/>
-		<itemref idref="the-elusive-tenderloin.xhtml"/>
-		<itemref idref="the-social-triangle.xhtml"/>
-		<itemref idref="a-chaparral-prince.xhtml"/>
-		<itemref idref="the-ferry-of-unfulfilment.xhtml"/>
-		<itemref idref="the-pendulum.xhtml"/>
-		<itemref idref="the-hypotheses-of-failure.xhtml"/>
-		<itemref idref="transformation-of-martin-burney.xhtml"/>
-		<itemref idref="a-little-local-colour.xhtml"/>
-		<itemref idref="a-newspaper-story.xhtml"/>
-		<itemref idref="a-madison-square-arabian-night.xhtml"/>
+	<!-- end of Postscripts -->
+	<!-- Cabbages and Kings, written in Honduras in 1897 but published in 1904 -->
 		<itemref idref="the-proem.xhtml"/>
 		<itemref idref="fox-in-the-morning.xhtml"/>
+		<!-- 1902-01, Smart Set -->
 		<itemref idref="the-lotus-and-the-bottle.xhtml"/>
 		<itemref idref="smith.xhtml"/>
 		<itemref idref="caught.xhtml"/>
 		<itemref idref="cupids-exile-number-two.xhtml"/>
+		<!-- 1903-02, McClure's -->
 		<itemref idref="the-phonograph-and-the-graft.xhtml"/>
+		<!-- 1901-05, Ainslee's -->
 		<itemref idref="money-maze.xhtml"/>
 		<itemref idref="the-admiral.xhtml"/>
+		<!-- 1902-01, Ainslee's -->
 		<itemref idref="the-flag-paramount.xhtml"/>
+		<!-- 1903-04, Ainslee's -->
 		<itemref idref="the-shamrock-and-the-palm.xhtml"/>
 		<itemref idref="the-remnants-of-the-code.xhtml"/>
+		<!-- 1903-10, Everybody's -->
 		<itemref idref="shoes.xhtml"/>
+		<!-- 1903-10, Everybody's -->
 		<itemref idref="ships.xhtml"/>
+		<!-- 1903-08, Everybody's -->
 		<itemref idref="masters-of-arts.xhtml"/>
 		<itemref idref="dicky.xhtml"/>
+		<!-- 1901-12, Ainslee's v8n5 -->
 		<itemref idref="rouge-et-noir.xhtml"/>
 		<itemref idref="two-recalls.xhtml"/>
 		<itemref idref="the-vitagraphoscope.xhtml"/>
-		<itemref idref="the-gift-of-the-magi.xhtml"/>
-		<itemref idref="a-cosmopolite-in-a-cafe.xhtml"/>
-		<itemref idref="between-rounds.xhtml"/>
-		<itemref idref="the-skylight-room.xhtml"/>
-		<itemref idref="a-service-of-love.xhtml"/>
-		<itemref idref="the-coming-out-of-maggie.xhtml"/>
-		<itemref idref="man-about-town.xhtml"/>
-		<itemref idref="the-cop-and-the-anthem.xhtml"/>
-		<itemref idref="an-adjustment-of-nature.xhtml"/>
-		<itemref idref="memoirs-of-a-yellow-dog.xhtml"/>
-		<itemref idref="the-love-philtre-of-ikey-schoenstein.xhtml"/>
-		<itemref idref="mammon-and-the-archer.xhtml"/>
-		<itemref idref="springtime-a-la-carte.xhtml"/>
-		<itemref idref="the-green-door.xhtml"/>
-		<itemref idref="from-the-cabbys-seat.xhtml"/>
-		<itemref idref="an-unfinished-story.xhtml"/>
-		<itemref idref="the-caliph-cupid-and-the-clock.xhtml"/>
-		<itemref idref="sisters-of-the-golden-circle.xhtml"/>
-		<itemref idref="the-romance-of-a-busy-broker.xhtml"/>
-		<itemref idref="after-twenty-years.xhtml"/>
-		<itemref idref="lost-on-dress-parade.xhtml"/>
-		<itemref idref="the-furnished-room.xhtml"/>
-		<itemref idref="the-brief-debut-of-tildy.xhtml"/>
-		<itemref idref="a-ruler-of-men.xhtml"/>
-		<itemref idref="the-trimmed-lamp.xhtml"/>
-		<itemref idref="the-rubaiyat-of-a-scotch-highball.xhtml"/>
-		<itemref idref="two-thanksgiving-day-gentlemen.xhtml"/>
-		<itemref idref="the-assessor-of-success.xhtml"/>
-		<itemref idref="the-buyer-from-cactus-city.xhtml"/>
-		<itemref idref="the-badge-of-policeman-oroon.xhtml"/>
-		<itemref idref="brickdust-row.xhtml"/>
-		<itemref idref="the-making-of-a-new-yorker.xhtml"/>
-		<itemref idref="vanity-and-some-sables.xhtml"/>
-		<itemref idref="the-purple-dress.xhtml"/>
-		<itemref idref="the-foreign-policy-of-company-99.xhtml"/>
-		<itemref idref="the-lost-blend.xhtml"/>
-		<itemref idref="a-harlem-tragedy.xhtml"/>
-		<itemref idref="the-guilty-party.xhtml"/>
-		<itemref idref="according-to-their-lights.xhtml"/>
-		<itemref idref="a-midsummer-knights-dream.xhtml"/>
-		<itemref idref="the-last-leaf.xhtml"/>
-		<itemref idref="the-count-and-the-wedding-guest.xhtml"/>
-		<itemref idref="the-country-of-elusion.xhtml"/>
-		<itemref idref="the-tale-of-a-tainted-tenner.xhtml"/>
-		<itemref idref="elsie-in-new-york.xhtml"/>
-		<itemref idref="a-dinner-at-.xhtml"/>
-		<itemref idref="hearts-and-crosses.xhtml"/>
-		<itemref idref="the-ransom-of-mack.xhtml"/>
-		<itemref idref="telemachus-friend.xhtml"/>
-		<itemref idref="the-handbook-of-hymen.xhtml"/>
-		<itemref idref="seats-of-the-haughty.xhtml"/>
-		<itemref idref="the-higher-abdication.xhtml"/>
-		<itemref idref="the-caballeros-way.xhtml"/>
-		<itemref idref="the-missing-chord.xhtml"/>
-		<itemref idref="the-indian-summer-of-dry-valley-johnson.xhtml"/>
-		<itemref idref="christmas-by-injunction.xhtml"/>
-		<itemref idref="the-reformation-of-calliope.xhtml"/>
-		<itemref idref="the-octopus-marooned.xhtml"/>
-		<itemref idref="jeff-peters-as-a-personal-magnet.xhtml"/>
-		<itemref idref="modern-rural-sports.xhtml"/>
-		<itemref idref="the-chair-of-philanthromathematics.xhtml"/>
-		<itemref idref="the-hand-that-riles-the-world.xhtml"/>
-		<itemref idref="the-exact-science-of-matrimony.xhtml"/>
-		<itemref idref="a-midsummer-masquerade.xhtml"/>
-		<itemref idref="shearing-the-wolf.xhtml"/>
-		<itemref idref="innocents-of-broadway.xhtml"/>
-		<itemref idref="conscience-in-art.xhtml"/>
-		<itemref idref="the-man-higher-up.xhtml"/>
-		<itemref idref="a-tempered-wind.xhtml"/>
-		<itemref idref="hostages-to-momus.xhtml"/>
-		<itemref idref="the-ethics-of-pig.xhtml"/>
-		<itemref idref="the-voice-of-the-city.xhtml"/>
-		<itemref idref="the-complete-life-of-john-hopkins.xhtml"/>
-		<itemref idref="a-lickpenny-lover.xhtml"/>
-		<itemref idref="doughertys-eye-opener.xhtml"/>
-		<itemref idref="little-speck-in-garnered-fruit.xhtml"/>
-		<itemref idref="the-harbinger.xhtml"/>
-		<itemref idref="a-comedy-in-rubber.xhtml"/>
-		<itemref idref="one-thousand-dollars.xhtml"/>
-		<itemref idref="the-defeat-of-the-city.xhtml"/>
-		<itemref idref="the-shocks-of-doom.xhtml"/>
-		<itemref idref="the-plutonian-fire.xhtml"/>
-		<itemref idref="nemesis-and-the-candy-man.xhtml"/>
-		<itemref idref="squaring-the-circle.xhtml"/>
-		<itemref idref="roses-ruses-and-romance.xhtml"/>
-		<itemref idref="the-city-of-dreadful-night.xhtml"/>
-		<itemref idref="the-easter-of-the-soul.xhtml"/>
-		<itemref idref="the-fool-killer.xhtml"/>
-		<itemref idref="transients-in-arcadia.xhtml"/>
-		<itemref idref="the-rathskeller-and-the-rose.xhtml"/>
-		<itemref idref="the-clarion-call.xhtml"/>
-		<itemref idref="extradited-from-bohemia.xhtml"/>
-		<itemref idref="a-philistine-in-bohemia.xhtml"/>
-		<itemref idref="from-each-according-to-his-ability.xhtml"/>
-		<itemref idref="the-memento.xhtml"/>
-		<itemref idref="helping-the-other-fellow.xhtml"/>
-		<itemref idref="the-discounters-of-money.xhtml"/>
-		<itemref idref="the-enchanted-profile.xhtml"/>
-		<itemref idref="next-to-reading-matter.xhtml"/>
-		<itemref idref="phoebe.xhtml"/>
-		<itemref idref="a-double-dyed-deceiver.xhtml"/>
-		<itemref idref="the-emancipation-of-billy.xhtml"/>
-		<itemref idref="the-enchanted-kiss.xhtml"/>
-		<itemref idref="on-behalf-of-the-management.xhtml"/>
-		<itemref idref="the-halberdier-of-the-little-rheinschloss.xhtml"/>
-		<itemref idref="two-renegades.xhtml"/>
-		<itemref idref="the-rose-of-dixie.xhtml"/>
-		<itemref idref="the-third-ingredient.xhtml"/>
-		<itemref idref="the-hiding-of-black-bill.xhtml"/>
-		<itemref idref="schools-and-schools.xhtml"/>
-		<itemref idref="thimble-thimble.xhtml"/>
-		<itemref idref="supply-and-demand.xhtml"/>
-		<itemref idref="buried-treasure.xhtml"/>
-		<itemref idref="to-him-who-waits.xhtml"/>
-		<itemref idref="he-also-serves.xhtml"/>
-		<itemref idref="the-moment-of-victory.xhtml"/>
-		<itemref idref="the-head-hunter.xhtml"/>
-		<itemref idref="no-story.xhtml"/>
-		<itemref idref="the-higher-pragmatism.xhtml"/>
-		<itemref idref="best-seller.xhtml"/>
-		<itemref idref="rus-in-urbe.xhtml"/>
-		<itemref idref="a-poor-rule.xhtml"/>
-		<itemref idref="a-fog-in-santone.xhtml"/>
-		<itemref idref="blind-mans-holiday.xhtml"/>
-		<itemref idref="strictly-business.xhtml"/>
-		<itemref idref="the-gold-that-glittered.xhtml"/>
-		<itemref idref="babes-in-the-jungle.xhtml"/>
-		<itemref idref="the-day-resurgent.xhtml"/>
-		<itemref idref="the-fifth-wheel.xhtml"/>
-		<itemref idref="the-poet-and-the-peasant.xhtml"/>
-		<itemref idref="the-girl-and-the-graft.xhtml"/>
-		<itemref idref="the-call-of-the-tame.xhtml"/>
-		<itemref idref="the-unknown-quantity.xhtml"/>
-		<itemref idref="the-things-the-play.xhtml"/>
-		<itemref idref="a-ramble-in-aphasia.xhtml"/>
-		<itemref idref="a-municipal-report.xhtml"/>
-		<itemref idref="psyche-and-the-pskyscraper.xhtml"/>
-		<itemref idref="a-bird-of-bagdad.xhtml"/>
-		<itemref idref="compliments-of-the-season.xhtml"/>
-		<itemref idref="a-night-in-new-arabia.xhtml"/>
-		<itemref idref="the-girl-and-the-habit.xhtml"/>
-		<itemref idref="proof-of-the-pudding.xhtml"/>
-		<itemref idref="past-one-at-rooneys.xhtml"/>
-		<itemref idref="the-venturers.xhtml"/>
-		<itemref idref="the-duel.xhtml"/>
-		<itemref idref="what-you-want.xhtml"/>
-		<itemref idref="the-world-and-the-door.xhtml"/>
-		<itemref idref="the-theory-and-the-hound.xhtml"/>
-		<itemref idref="calloways-code.xhtml"/>
-		<itemref idref="a-matter-of-mean-elevation.xhtml"/>
-		<itemref idref="girl.xhtml"/>
-		<itemref idref="sociology-in-serge-and-straw.xhtml"/>
-		<itemref idref="the-ransom-of-red-chief.xhtml"/>
-		<itemref idref="the-marry-month-of-may.xhtml"/>
-		<itemref idref="a-technical-error.xhtml"/>
-		<itemref idref="suite-homes-and-their-romance.xhtml"/>
-		<itemref idref="a-sacrifice-hit.xhtml"/>
-		<itemref idref="the-roads-we-take.xhtml"/>
-		<itemref idref="the-song-and-the-sergeant.xhtml"/>
-		<itemref idref="tommys-burglar.xhtml"/>
-		<itemref idref="the-last-of-the-troubadours.xhtml"/>
-		<itemref idref="the-sleuths.xhtml"/>
-		<itemref idref="witches-loaves.xhtml"/>
-		<itemref idref="the-pride-of-the-cities.xhtml"/>
-		<itemref idref="holding-up-a-train.xhtml"/>
-		<itemref idref="ulysses-and-the-dogman.xhtml"/>
+	<!-- end of Cabbages and Kings -->
+		<!-- McClure's v14n2 1899-12, from Roads of Destiny -->
+		<itemref idref="whistling-dicks-christmas-stocking.xhtml"/>
+		<!-- Outlook 1900-06-30, from Whirligigs -->
+		<itemref idref="georgias-ruling.xhtml"/>
+		<!-- Youth’s Companion 1901-02-06, from O Henryana -->
+		<itemref idref="bulgers-friend.xhtml"/>
+		<!-- Munsey's v25n5 1901-08, from Whirligigs -->
+		<itemref idref="a-blackjack-bargainer.xhtml"/>
+		<!-- Junior Munsey 1902-02, from Sixes and Sevens -->
+		<itemref idref="the-duplicity-of-hargraves.xhtml"/>
+		<!-- Ainslee's 1902-03, from Roads of Destiny -->
+		<itemref idref="the-passing-of-black-eagle.xhtml"/>
+		<!-- Ainslee's 1902-03, from Roads of Destiny -->
+		<itemref idref="cherchez-la-femme.xhtml"/>
+		<!-- Ainslee's v9n3 1902-04, from Roads of Destiny -->
+		<itemref idref="friends-in-san-rosario.xhtml"/>
+		<!-- The Black Cat v7n7 1902-04, from Rolling Stones -->
+		<itemref idref="the-marionettes.xhtml"/>
+		<!-- Smart Set v7n1 1902-05, from The Four Million -->
+		<itemref idref="by-courier.xhtml"/>
+		<!-- Smart Set v7n2 1902-06, from Whirligigs -->
+		<itemref idref="madame-bo-peep-of-the-ranches.xhtml"/>
+		<!-- Everybody's 1902-07, from Heart of the West -->
+		<itemref idref="an-afternoon-miracle.xhtml"/>
+		<!-- Everybody's 1902-07, from Heart of the West -->
+		<itemref idref="a-call-loan.xhtml"/>
+		<!-- Everybody’s v7n2 1902-08, from O Henryana -->
+		<itemref idref="the-struggle-of-the-outliers.xhtml"/>
+		<!-- Town Topics 1902-09-11, from O Henryana -->
+		<itemref idref="a-professional-secret.xhtml"/>
+		<!-- Brandur's v1n2 1902-09-27, from Heart of the West -->
+		<itemref idref="cupid-a-la-carte.xhtml"/>
+		<!-- Ainslee's v10n3 1902-10, from Roads of Destiny -->
+		<itemref idref="a-departmental-case.xhtml"/>
+		<!-- Everybody's v7n4 1902-10, from Waifs and Strays -->
+		<itemref idref="round-the-circle.xhtml"/>
+		<!-- Everybody's v7n4 1902-10, from Waifs and Strays -->
+		<itemref idref="the-cactus.xhtml"/>
+		<!-- The Era 1902-10, from Roads of Destiny -->
+		<itemref idref="the-renaissance-at-charleroi.xhtml"/>
+		<!-- Everybody's v7n6 1902-12, from Waifs and Strays -->
+		<itemref idref="hearts-and-hands.xhtml"/>
+		<!-- Smart Set 1903-01, from Sixes and Sevens -->
+		<itemref idref="a-ghost-of-a-chance.xhtml"/>
+		<!-- Ainslee's 1903-02, from Roads of Destiny -->
+		<itemref idref="art-and-the-bronco.xhtml"/>
+		<!-- Everybody's v8n2 1903-02, from Heart of the West -->
+		<itemref idref="hygeia-at-the-solito.xhtml"/>
+		<!-- Ainslee’s 1903-03, from Rolling Stones -->
+		<itemref idref="sound-and-fury.xhtml"/>
+		<!-- Ainslee's 1903-04, from Roads of Destiny -->
+		<itemref idref="roads-of-destiny.xhtml"/>
+		<!-- Ainslee's 1903-04, from Strictly Business -->
+		<itemref idref="the-robe-of-peace.xhtml"/>
+		<!-- Cosmopolitan 1903-04, from Roads of Destiny -->
+		<itemref idref="a-retrieved-reformation.xhtml"/>
+		<!-- Munsey's 1903-04, from Whirligigs -->
+		<itemref idref="one-dollars-worth.xhtml"/>
+		<!-- Ainslee's 1903-05, from The Voice of the City -->
+		<itemref idref="while-the-auto-waits.xhtml"/>
+		<!-- Cosmopolitan 1903-05, from Roads of Destiny -->
+		<itemref idref="the-guardian-of-the-accolade.xhtml"/>
+		<!-- Ainslee's 1903-06, from Sixes and Sevens -->
+		<itemref idref="october-and-june.xhtml"/>
+		<!-- Everybody’s 1903-06, from Rolling Stones -->
+		<itemref idref="the-marquis-and-miss-sally.xhtml"/>
+		<!-- The Pilgrim 1903-06, from Waifs and Strays -->
+		<itemref idref="out-of-nazareth.xhtml"/>
+		<!-- Everybody’s 1903-07, from Rolling Stones -->
+		<itemref idref="the-atavism-of-john-tom-little-bear.xhtml"/>
+		<!-- Harper's 1903-07, from Whirligigs -->
+		<itemref idref="the-whirligig-of-life.xhtml"/>
+		<!-- McClure's 1903-07, from Roads of Destiny -->
+		<itemref idref="the-fourth-in-salvador.xhtml"/>
+		<!-- Munsey's 1903-07, from Sixes and Sevens -->
+		<itemref idref="jimmy-hayes-and-muriel.xhtml"/>
+		<!-- McClure's 1903-08, from The Four Million -->
+		<itemref idref="tobins-palm.xhtml"/>
+		<!-- Ainslee's 1903-09, from Roads of Destiny -->
+		<itemref idref="the-lonesome-road.xhtml"/>
+		<!-- Ainslee's 1903-10, from Waifs and Strays -->
+		<itemref idref="confessions-of-a-humorist.xhtml"/>
+		<!-- Anislee's 1903-10, from Sixes and Sevens -->
+		<itemref idref="at-arms-with-morpheus.xhtml"/>
+		<!-- Everybody's 1903-11, from Heart of the West -->
+		<itemref idref="the-princess-and-the-puma.xhtml"/>
+		<!-- Ainslee's 1903-12, from Whirligigs -->
+		<itemref idref="a-chaparral-christmas-gift.xhtml"/>
+		<!-- Everybody's 1903-12, from Heart of the West -->
+		<itemref idref="the-sphinx-apple.xhtml"/>
+		<!-- McClure's 1903-12, from Heart of the West -->
+		<itemref idref="the-pimienta-pancakes.xhtml"/>
+		<!-- New York Sunday World 1903-12-03, from The Trimmed Lamp -->
+		<itemref idref="the-social-triangle.xhtml"/>
+		<!-- New York Sunday World 1903-12-06, from O Henryana -->
+		<itemref idref="the-elusive-tenderloin.xhtml"/>
+		<!-- New York Sunday World 1903-12-20, from Heart of the West -->
+		<itemref idref="a-chaparral-prince.xhtml"/>
+		<!-- New York Sunday World 1903-12-27, from The Trimmed Lamp -->
+		<itemref idref="the-ferry-of-unfulfilment.xhtml"/>
+		<!-- New York Sunday World v44n15636 1904, from The Trimmed Lamp -->
+		<itemref idref="the-pendulum.xhtml"/>
+		<!-- Ainslee's 1904-01, from Whirligigs -->
+		<itemref idref="the-hypotheses-of-failure.xhtml"/>
+		<!-- New York Sunday World v44n15475 1904-01-03, from Sixes and Sevens -->
+		<itemref idref="transformation-of-martin-burney.xhtml"/>
+		<!-- New York Sunday World v44n15482 1904-01-10, from Whirligigs -->
+		<itemref idref="a-little-local-colour.xhtml"/>
+		<!-- New York Sunday World v44n15489 1904-01-17, from Whirligigs -->
+		<itemref idref="a-newspaper-story.xhtml"/>
+		<!-- New York Sunday World 1904-01-24, from The Trimmed Lamp -->
+		<itemref idref="a-madison-square-arabian-night.xhtml"/>
+		<!-- New York Sunday World v44n15503 1904-01-31, from Sixes and Sevens -->
 		<itemref idref="the-champion-of-the-weather.xhtml"/>
-		<itemref idref="makes-the-whole-world-kin.xhtml"/>
-		<itemref idref="the-door-of-unrest.xhtml"/>
-		<itemref idref="let-me-feel-your-pulse.xhtml"/>
-		<itemref idref="the-church-with-an-overshot-wheel.xhtml"/>
-		<itemref idref="new-york-by-camp-fire-light.xhtml"/>
+		<!-- Everybody's v10n2 1904-02, from Roads of Destiny -->
+		<itemref idref="on-behalf-of-the-management.xhtml"/>
+		<!-- Metropolitan v19n5 1904-02, from Roads of Destiny -->
+		<itemref idref="the-enchanted-kiss.xhtml"/>
+		<!-- New York Sunday World v44n15510 1904-02-07, from Sixes and Sevens -->
 		<itemref idref="the-adventures-of-shamrock-jolnes.xhtml"/>
-		<itemref idref="the-lady-higher-up.xhtml"/>
-		<itemref idref="the-greater-coney.xhtml"/>
-		<itemref idref="law-and-order.xhtml"/>
-		<itemref idref="the-caliph-and-the-cad.xhtml"/>
-		<itemref idref="the-diamond-of-kali.xhtml"/>
-		<itemref idref="the-day-we-celebrate.xhtml"/>
-		<itemref idref="the-friendly-call.xhtml"/>
-		<itemref idref="an-unfinished-christmas-story.xhtml"/>
-		<itemref idref="the-unprofitable-servant.xhtml"/>
-		<itemref idref="the-dream.xhtml"/>
-		<itemref idref="the-red-roses-of-tonia.xhtml"/>
-		<itemref idref="the-rubber-plants-story.xhtml"/>
+		<!-- New York Sunday World v44n15517 1904-02-14, from The Four Million -->
+		<itemref idref="after-twenty-years.xhtml"/>
+		<!-- New York Sunday World v44n15524 1904-02-21, from Waifs and Strays -->
 		<itemref idref="the-sparrows-in-madison-square.xhtml"/>
-		<itemref idref="the-detective-detector.xhtml"/>
-		<itemref idref="the-dog-and-the-playlet.xhtml"/>
+		<!-- New York Sunday World v44n15531 1904-02-28, from The Four Million -->
+		<itemref idref="lost-on-dress-parade.xhtml"/>
+		<!-- Sunday 1904-02-28, from Heart of the West -->
+		<itemref idref="the-reformation-of-calliope.xhtml"/>
+		<!-- Argosy v44n4 1904-03, from Sixes and Sevens -->
+		<itemref idref="witches-loaves.xhtml"/>
+		<!-- New York Sunday World v44n15538 1904-03-06, from Sixes and Sevens -->
+		<itemref idref="new-york-by-camp-fire-light.xhtml"/>
+		<!-- New York Sunday World v44n15545 1904-03-13, from The Four Million -->
+		<itemref idref="the-romance-of-a-busy-broker.xhtml"/>
+		<!-- New York Sunday World 1904-03-20, from Whirligigs -->
+		<itemref idref="a-matter-of-mean-elevation.xhtml"/>
+		<!-- New York Sunday World v44n15559 1904-03-27, from The Four Million -->
+		<itemref idref="the-brief-debut-of-tildy.xhtml"/>
+		<!-- McClure's n22n6 1904-04, from Sixes and Sevens -->
+		<itemref idref="holding-up-a-train.xhtml"/>
+		<!-- New York Sunday World v44n15566 1904-04-03, from The Voice of the City -->
+		<itemref idref="the-easter-of-the-soul.xhtml"/>
+		<!-- New York Sunday World v44n15573 1904-04-10, from Sixes and Sevens -->
+		<itemref idref="ulysses-and-the-dogman.xhtml"/>
+		<!-- New York Sunday World v44n15580 1904-04-17, from The Voice of the City -->
+		<itemref idref="the-complete-life-of-john-hopkins.xhtml"/>
+		<!-- New York Sunday World v44n15587 1904-04-24, from Sixes and Sevens -->
+		<itemref idref="the-caliph-and-the-cad.xhtml"/>
+		<!-- Cosmopolitan v37n1 1904-05, from Sixes and Sevens -->
+		<itemref idref="the-door-of-unrest.xhtml"/>
+		<!-- Everybody's v10n5 1904-05, from Roads of Destiny -->
+		<itemref idref="the-emancipation-of-billy.xhtml"/>
+		<!-- New York Sunday World v44n15594 1904-05-01, from The Trimmed Lamp -->
+		<itemref idref="a-harlem-tragedy.xhtml"/>
+		<!-- New York Sunday World v44n15601 1904-05-08, from The Voice of the City -->
+		<itemref idref="doughertys-eye-opener.xhtml"/>
+		<!-- New York Sunday World v44n15608 1904-05-15, from Waifs and Strays -->
+		<itemref idref="the-rubber-plants-story.xhtml"/>
+		<!-- New York Sunday World v44n15615 1904-05-22, from Strictly Business -->
+		<itemref idref="the-gold-that-glittered.xhtml"/>
+		<!-- New York Sunday World v44n15621 1904-05-29, from The Voice of the City -->
+		<itemref idref="a-lickpenny-lover.xhtml"/>
+		<!-- Century v68n2 1904-06, from Heart of the West -->
+		<itemref idref="the-missing-chord.xhtml"/>
+		<!-- The Critic v44n6 1904-06, from Rolling Stones -->
+		<itemref idref="a-dinner-at-.xhtml"/>
+		<!-- New York Sunday World v44n15629 1904-06-05, from The Voice of the City -->
+		<itemref idref="one-thousand-dollars.xhtml"/>
+		<!-- New York Sunday World v44n16543 1904-06-19, from The Voice of the City -->
+		<itemref idref="a-comedy-in-rubber.xhtml"/>
+		<!-- New York Sunday World v44n15650 1904-06-26, from The Voice of the City -->
+		<itemref idref="the-defeat-of-the-city.xhtml"/>
+		<!-- New York Sunday World v45n15657 1904-07-03, from Sixes and Sevens -->
+		<itemref idref="the-pride-of-the-cities.xhtml"/>
+		<!-- New York Sunday World v45n15564 1904-07-10, from Sixes and Sevens -->
+		<itemref idref="the-greater-coney.xhtml"/>
+		<!-- New York Sunday World v45n15671 1904-07-17, from The Voice of the City -->
+		<itemref idref="transients-in-arcadia.xhtml"/>
+		<!-- New York Sunday World v45n15678 1904-07-24, from Sixes and Sevens -->
+		<itemref idref="the-lady-higher-up.xhtml"/>
+		<!-- New York Sunday World v45n15685 1904-07-31, from The Trimmed Lamp -->
+		<itemref idref="the-foreign-policy-of-company-99.xhtml"/>
+		<!-- Everybody's v11n2 1904-08, from Roads of Destiny -->
+		<itemref idref="two-renegades.xhtml"/>
+		<!-- McClure's v23n4 1904-08, from The Gentle Grafter -->
+		<itemref idref="a-tempered-wind.xhtml"/>
+		<!-- New York Sunday World v45v15692 1904-08-07, from Whirligigs -->
+		<itemref idref="the-roads-we-take.xhtml"/>
+		<!-- New York Sunday World v45n15699 1904-08-14, from The Four Million -->
+		<itemref idref="the-furnished-room.xhtml"/>
+		<!-- New York Sunday World v45n15706 1904-08-21, from The Voice of the City -->
+		<itemref idref="a-philistine-in-bohemia.xhtml"/>
+		<!-- New York Sunday World v45n15713 1904-08-28, from Sixes and Sevens -->
+		<itemref idref="the-diamond-of-kali.xhtml"/>
+		<!-- New York Sunday World 1904-09-04, from Waifs and Strays -->
 		<itemref idref="a-little-talk-about-mobs.xhtml"/>
+		<!-- New York Sunday World v44n15727 1904-09-11, from Whirligigs -->
+		<itemref idref="suite-homes-and-their-romance.xhtml"/>
+		<!-- New York Sunday World v45n15734 1904-09-18, from The Four Million -->
+		<itemref idref="the-caliph-cupid-and-the-clock.xhtml"/>
+		<!-- New York Sunday World 1904-09-25, from Sixes and Sevens -->
+		<itemref idref="makes-the-whole-world-kin.xhtml"/>
+		<!-- New York Sunday World 1904-10-02, from The Four Million -->
+		<itemref idref="the-love-philtre-of-ikey-schoenstein.xhtml"/>
+		<!-- New York Sunday World v45n15755 1904-10-09, from The Voice of the City -->
+		<itemref idref="the-rathskeller-and-the-rose.xhtml"/>
+		<!-- New York Sunday World v45n15762 1904-10-16, from Whirligigs -->
+		<itemref idref="a-sacrifice-hit.xhtml"/>
+		<!-- New York Sunday World v45n15769 1904-10-23, from Sixes and Sevens -->
+		<itemref idref="the-sleuths.xhtml"/>
+		<!-- New York Sunday World v45n15776 1904-10-30, from The Four Million -->
+		<itemref idref="from-the-cabbys-seat.xhtml"/>
+		<!-- New York Sunday World v45n15790 1904-11-13, from Whirligigs -->
+		<itemref idref="the-theory-and-the-hound.xhtml"/>
+		<!-- New York Sunday World v45n15798 1904-11-20, from The Four Million -->
+		<itemref idref="the-coming-out-of-maggie.xhtml"/>
+		<!-- New York Sunday World v45n15804 1904-11-27, from The Voice of the City -->
+		<itemref idref="squaring-the-circle.xhtml"/>
+		<!-- Everybody's v11n6 1904-12, from Heart of the West -->
+		<itemref idref="hearts-and-crosses.xhtml"/>
+		<!-- McClure's v24n2 1904-12, from Heart of the West -->
+		<itemref idref="the-ransom-of-mack.xhtml"/>
+		<!-- New York Sunday World v45n15811 1904-12-04, from The Four Million -->
+		<itemref idref="the-cop-and-the-anthem.xhtml"/>
+		<!-- New York Sunday World v45n15819 1904-12-11, from Heart of the West -->
+		<itemref idref="christmas-by-injunction.xhtml"/>
+		<!-- New York Sunday World v45n15825 1904-12-18, from The Four Million -->
+		<itemref idref="the-green-door.xhtml"/>
+		<!-- Northwestern Miller 1904-12-21, from Sixes and Sevens -->
+		<itemref idref="the-church-with-an-overshot-wheel.xhtml"/>
+		<!-- New York Sunday World v45n15832 1904-12-25, from The Trimmed Lamp -->
+		<itemref idref="the-badge-of-policeman-oroon.xhtml"/>
+		<!-- Metropolitan v21no5 1905, from Strictly Business -->
+		<itemref idref="a-ramble-in-aphasia.xhtml"/>
+		<!-- New York Sunday World 1905-01-01, from The Trimmed Lamp -->
+		<itemref idref="the-making-of-a-new-yorker.xhtml"/>
+		<!-- New York Sunday World 1905-01-08, from The Four Million -->
+		<itemref idref="a-service-of-love.xhtml"/>
+		<!-- New York Sunday World 1905-01-15, from Strictly Business -->
+		<itemref idref="psyche-and-the-pskyscraper.xhtml"/>
+		<!-- New York Sunday World 1905-01-22, from The Four Million -->
+		<itemref idref="a-cosmopolite-in-a-cafe.xhtml"/>
+		<!-- New York Sunday World 1905-01-29, from Strictly Business -->
+		<itemref idref="the-girl-and-the-habit.xhtml"/>
+		<!-- New York Sunday World 1905-02-05, from The Trimmed Lamp -->
+		<itemref idref="vanity-and-some-sables.xhtml"/>
+		<!-- New York Sunday World 1905-02-12, from Strictly Business -->
+		<itemref idref="the-unknown-quantity.xhtml"/>
+		<!-- New York Sunday World 1905-02-19, from Strictly Business -->
+		<itemref idref="babes-in-the-jungle.xhtml"/>
+		<!-- New York Sunday World 1905-02-26, from Whirligigs -->
+		<itemref idref="the-song-and-the-sergeant.xhtml"/>
+		<!-- New York Sunday World 1905-03-05, from The Four Million -->
+		<itemref idref="man-about-town.xhtml"/>
+		<!-- New York Sunday World 1905-03-12, from The Four Million -->
+		<itemref idref="memoirs-of-a-yellow-dog.xhtml"/>
+		<!-- New York Sunday World 1905-03-19, from The Four Million -->
+		<itemref idref="mammon-and-the-archer.xhtml"/>
+		<!-- New York Sunday World 1905-03-26, from Waifs and Strays -->
+		<itemref idref="the-detective-detector.xhtml"/>
+		<!-- New York Sunday World 1905-03-27, from The Voice of the City -->
+		<itemref idref="little-speck-in-garnered-fruit.xhtml"/>
+		<!-- New York Sunday World 1905-03-27, from The Voice of the City -->
+		<itemref idref="the-shocks-of-doom.xhtml"/>
+		<!-- New York Sunday World 1905-03-27, from The Voice of the City -->
+		<itemref idref="extradited-from-bohemia.xhtml"/>
+		<!-- New York Sunday World 1905-03-27, from Waifs and Strays -->
+		<itemref idref="the-red-roses-of-tonia.xhtml"/>
+		<!-- New York Sunday World 1905-04-02, from The Four Million -->
+		<itemref idref="springtime-a-la-carte.xhtml"/>
+		<!-- New York Sunday World 1905-04-24, from The Four Million -->
+		<itemref idref="between-rounds.xhtml"/>
+		<!-- New York Sunday World 1905-04-24, from Whirligigs -->
+		<itemref idref="tommys-burglar.xhtml"/>
+		<!-- New York Sunday World 1905-05-21, from Whirligigs -->
+		<itemref idref="the-marry-month-of-may.xhtml"/>
+		<!-- New York Sunday World 1905-05-28, from Strictly Business -->
+		<itemref idref="the-girl-and-the-graft.xhtml"/>
+		<!-- New York Sunday World 1905-06-04, from Strictly Business -->
+		<itemref idref="the-call-of-the-tame.xhtml"/>
+		<!-- New York Sunday World 1905-06-11, from The Trimmed Lamp -->
+		<itemref idref="according-to-their-lights.xhtml"/>
+		<!-- New York Sunday World 1905-06-18, from The Voice of the City -->
+		<itemref idref="roses-ruses-and-romance.xhtml"/>
+		<!-- New York Sunday World 1905-06-25, from The Voice of the City -->
+		<itemref idref="the-voice-of-the-city.xhtml"/>
+		<!-- Munsey's 1905-07, from The Gentle Grafter -->
+		<itemref idref="hostages-to-momus.xhtml"/>
+		<!-- New York Sunday World 1905-07-02, from The Four Million -->
+		<itemref idref="sisters-of-the-golden-circle.xhtml"/>
+		<!-- New York Sunday World 1905-07-09, from Waifs and Strays -->
+		<itemref idref="the-dog-and-the-playlet.xhtml"/>
+		<!-- New York Sunday World 1905-07-16, from The Four Million -->
+		<itemref idref="an-adjustment-of-nature.xhtml"/>
+		<!-- New York Sunday World 1905-07-23, from The Trimmed Lamp -->
+		<itemref idref="a-midsummer-knights-dream.xhtml"/>
+		<!-- New York Sunday World 1905-07-30, from The Trimmed Lamp -->
+		<itemref idref="the-lost-blend.xhtml"/>
+		<!-- McClure's 1905-08, from The Four Million -->
+		<itemref idref="an-unfinished-story.xhtml"/>
+		<!-- New York Sunday World 1905-08-06, from The Voice of the City -->
+		<itemref idref="nemesis-and-the-candy-man.xhtml"/>
+		<!-- New York Sunday World 1905-08-13, from The Voice of the City -->
+		<itemref idref="the-city-of-dreadful-night.xhtml"/>
+		<!-- New York Sunday World 1905-08-20, from The Four Million -->
+		<itemref idref="the-skylight-room.xhtml"/>
+		<!-- New York Sunday World 1905-08-27, from The Trimmed Lamp -->
+		<itemref idref="the-assessor-of-success.xhtml"/>
+		<!-- New York Sunday World 1905-09-03, from The Voice of the City -->
+		<itemref idref="from-each-according-to-his-ability.xhtml"/>
+		<!-- New York Sunday World 1905-09-10, from Strictly Business -->
+		<itemref idref="the-poet-and-the-peasant.xhtml"/>
+		<!-- New York Sunday World 1905-09-17, from Strictly Business -->
+		<itemref idref="a-bird-of-bagdad.xhtml"/>
+		<!-- New York Sunday World 1905-09-24, from The Voice of the City -->
+		<itemref idref="the-plutonian-fire.xhtml"/>
+		<!-- New York Sunday World 1905-10-01, from The Trimmed Lamp -->
+		<itemref idref="the-guilty-party.xhtml"/>
+		<!-- New York Sunday World 1905-10-08, from The Trimmed Lamp -->
+		<itemref idref="the-count-and-the-wedding-guest.xhtml"/>
+		<!-- New York Sunday World 1905-10-15, from The Trimmed Lamp -->
+		<itemref idref="the-last-leaf.xhtml"/>
+		<!-- New York Sunday World 1905-10-22, from The Trimmed Lamp -->
+		<itemref idref="elsie-in-new-york.xhtml"/>
+		<!-- New York Sunday World 1905-10-29, from The Voice of the City -->
+		<itemref idref="the-clarion-call.xhtml"/>
+		<!-- New York Sunday World 1905-11-12, from The Trimmed Lamp -->
+		<itemref idref="the-tale-of-a-tainted-tenner.xhtml"/>
+		<!-- New York Sunday World 1905-11-26, from The Trimmed Lamp -->
+		<itemref idref="two-thanksgiving-day-gentlemen.xhtml"/>
+		<!-- Ainslee's 1905-12, from The Two Women (1910) -->
+		<itemref idref="blind-mans-holiday.xhtml"/>
+		<!-- Munsey's 1905-12, from Heart of the West -->
+		<itemref idref="telemachus-friend.xhtml"/>
+		<!-- Everybody's 1905-12-06, from Roads of Destiny -->
+		<itemref idref="a-double-dyed-deceiver.xhtml"/>
+		<!-- New York Sunday World 1905-12-10, from The Four Million -->
+		<itemref idref="the-gift-of-the-magi.xhtml"/>
+		<!-- New York Sunday World 1906-01-07, from Strictly Business -->
+		<itemref idref="the-duel.xhtml"/>
+		<!-- New York Sunday World 1906-01-14, from Strictly Business -->
+		<itemref idref="the-things-the-play.xhtml"/>
+		<!-- New York Sunday World 1906-02-25, from The Trimmed Lamp -->
+		<itemref idref="the-rubaiyat-of-a-scotch-highball.xhtml"/>
+		<!-- New York Sunday World v46n16266 1906-03-04, from The Trimmed Lamp -->
+		<itemref idref="the-buyer-from-cactus-city.xhtml"/>
+		<!-- New York Sunday World 1906-03-18, from The Voice of the City -->
+		<itemref idref="the-harbinger.xhtml"/>
+		<!-- New York Sunday World v46n16301 1906-04-08, from Strictly Business -->
+		<itemref idref="the-day-resurgent.xhtml"/>
+		<!-- New York Sunday World 1906-04-15, from The Voice of the City -->
+		<itemref idref="the-fool-killer.xhtml"/>
+		<!-- Munsey's 1906-07, from Heart of the West -->
+		<itemref idref="the-handbook-of-hymen.xhtml"/>
+		<!-- New York Sunday World v47n16385 1906-07-01, from The Trimmed Lamp -->
+		<itemref idref="brickdust-row.xhtml"/>
+		<!-- New York Sunday World 1906-07-08, from Whirligigs -->
+		<itemref idref="sociology-in-serge-and-straw.xhtml"/>
+		<!-- New York Sunday World 1906-07-15, from Whirligigs -->
+		<itemref idref="girl.xhtml"/>
+		<!-- Everybody's v15n2 1906-08, from Rolling Stones -->
+		<itemref idref="a-ruler-of-men.xhtml"/>
+		<!-- McClure's v27n14 1906-08, from The Trimmed Lamp -->
+		<itemref idref="the-trimmed-lamp.xhtml"/>
+		<!-- Munsey's 1906-08, from Heart of the West -->
+		<itemref idref="the-higher-abdication.xhtml"/>
+		<!-- Munsey's 1906-09, from Whirligigs -->
+		<itemref idref="calloways-code.xhtml"/>
+		<!-- Everybody's v15n4 1906-10, from The Trimmed Lamp -->
+		<itemref idref="the-country-of-elusion.xhtml"/>
+		<!-- Munsey's 1906-10, from The Gentle Grafter -->
+		<itemref idref="the-ethics-of-pig.xhtml"/>
+		<!-- Ainslee's v18n5 1906-12, from Strictly Business -->
+		<itemref idref="compliments-of-the-season.xhtml"/>
+		<!-- Munsey's 1906-12, from Heart of the West -->
+		<itemref idref="seats-of-the-haughty.xhtml"/>
+		<!-- Sunday 1907-01-13, from Strictly Business -->
+		<itemref idref="past-one-at-rooneys.xhtml"/>
+		<!-- The American 1907-02, from Heart of the West -->
+		<itemref idref="the-indian-summer-of-dry-valley-johnson.xhtml"/>
+		<!-- The Times v1n3 1907-02, from The Gentle Grafter -->
+		<itemref idref="the-man-higher-up.xhtml"/>
+		<!-- Broadway v18n2 1907-05, from Strictly Business -->
+		<itemref idref="proof-of-the-pudding.xhtml"/>
+		<!-- Everybody's v16n5 1907-05, from Roads of Destiny -->
+		<itemref idref="the-halberdier-of-the-little-rheinschloss.xhtml"/>
+		<!-- Everybody's 1907-07, from Heart of the West -->
+		<itemref idref="the-caballeros-way.xhtml"/>
+		<!-- Saturday Evening Post v180n1 1907-07-06, from Whirligigs -->
+		<itemref idref="the-ransom-of-red-chief.xhtml"/>
+		<!-- Everybody's v17n2 1907-08, from Strictly Business -->
+		<itemref idref="the-fifth-wheel.xhtml"/>
+		<!-- The American 1907-08, from Whirligigs -->
+		<itemref idref="the-world-and-the-door.xhtml"/>
+		<!-- Everybody's v17n5 1907-11, from Roads of Destiny -->
+		<itemref idref="phoebe.xhtml"/>
+		<!-- Everybody's v27n6 1907-12, from Roads of Destiny -->
+		<itemref idref="next-to-reading-matter.xhtml"/>
+		<!-- The Reader 1907-12, from Sixes and Sevens -->
+		<itemref idref="the-day-we-celebrate.xhtml"/>
+		<!-- 1908 (book only), from The Gentle Grafter -->
+		<itemref idref="the-octopus-marooned.xhtml"/>
+		<!-- 1908 (book only), from The Gentle Grafter -->
+		<itemref idref="jeff-peters-as-a-personal-magnet.xhtml"/>
+		<!-- 1908 (book only), from The Gentle Grafter -->
+		<itemref idref="modern-rural-sports.xhtml"/>
+		<!-- 1908 (book only), from The Gentle Grafter -->
+		<itemref idref="the-chair-of-philanthromathematics.xhtml"/>
+		<!-- 1908 (book only), from The Gentle Grafter -->
+		<itemref idref="the-hand-that-riles-the-world.xhtml"/>
+		<!-- 1908 (book only), from The Gentle Grafter -->
+		<itemref idref="the-exact-science-of-matrimony.xhtml"/>
+		<!-- 1908 (book only), from The Gentle Grafter -->
+		<itemref idref="a-midsummer-masquerade.xhtml"/>
+		<!-- 1908 (book only), from The Gentle Grafter -->
+		<itemref idref="shearing-the-wolf.xhtml"/>
+		<!-- 1908 (book only), from The Gentle Grafter -->
+		<itemref idref="innocents-of-broadway.xhtml"/>
+		<!-- 1908 (book only), from The Gentle Grafter -->
+		<itemref idref="conscience-in-art.xhtml"/>
+		<!-- Ainslee's v21n1 1908-02, from The Voice of the City -->
+		<itemref idref="the-memento.xhtml"/>
+		<!-- Metropolitan v28n5 1908-02, from Roads of Destiny -->
+		<itemref idref="the-enchanted-profile.xhtml"/>
+		<!-- Everybody's v18n3 1908-03, from Strictly Business -->
+		<itemref idref="a-night-in-new-arabia.xhtml"/>
+		<!-- Everybody's v18n5 1908-05, from Options -->
+		<itemref idref="the-head-hunter.xhtml"/>
+		<!-- Munsey's 1908-05, from Options -->
+		<itemref idref="the-moment-of-victory.xhtml"/>
+		<!-- Everybody's v18n6 1908-06, from Options -->
+		<itemref idref="the-rose-of-dixie.xhtml"/>
+		<!-- Ainslee's v21n6 1908-07, from Options -->
+		<itemref idref="buried-treasure.xhtml"/>
+		<!-- Everybody's v19n1 1908-07, from Sixes and Sevens -->
+		<itemref idref="the-last-of-the-troubadours.xhtml"/>
+		<!-- New Broadway v20n5 1908-08, from Strictly Business -->
+		<itemref idref="strictly-business.xhtml"/>
+		<!-- The American 1908-09, from Strictly Business -->
+		<itemref idref="what-you-want.xhtml"/>
+		<!-- Everybody's v19n4 1908-10, from Options -->
+		<itemref idref="the-hiding-of-black-bill.xhtml"/>
+		<!-- Munsey's 1908-10, from Options -->
+		<itemref idref="schools-and-schools.xhtml"/>
+		<!-- The American 1908-10, from Roads of Destiny -->
+		<itemref idref="the-discounters-of-money.xhtml"/>
+		<!-- Collier's 1908-10-31, from Options -->
+		<itemref idref="he-also-serves.xhtml"/>
+		<!-- Everybody's v19n6 1908-12, from Options -->
+		<itemref idref="the-third-ingredient.xhtml"/>
+		<!-- Hampton's Broadway v21n6 1908-12, from Options -->
+		<itemref idref="thimble-thimble.xhtml"/>
+		<!-- Munsey's v40n3 1908-12, from Rolling Stones -->
+		<itemref idref="helping-the-other-fellow.xhtml"/>
+		<!-- New York Herald 1908-12-13, from Options -->
+		<itemref idref="supply-and-demand.xhtml"/>
+		<!-- Collier's v42n18 1909-01-23, from Options -->
+		<itemref idref="to-him-who-waits.xhtml"/>
+		<!-- Munsey's v40n6 1909-03, from Options -->
+		<itemref idref="the-higher-pragmatism.xhtml"/>
+		<!-- Munsey's v41n1 1909-04, from Options -->
+		<itemref idref="best-seller.xhtml"/>
+		<!-- Metropolitan v30n3 1909-06, from Options -->
+		<itemref idref="no-story.xhtml"/>
+		<!-- Everybody's v21n2 1909-08, from Options -->
+		<itemref idref="a-poor-rule.xhtml"/>
+		<!-- Hampton's v23n2 1909-08, from Options -->
+		<itemref idref="rus-in-urbe.xhtml"/>
+		<!-- Everybody's v21n4 1909-10, from Strictly Business -->
+		<itemref idref="the-venturers.xhtml"/>
+		<!-- Hampton's v23n5 1909-11, from Strictly Business -->
+		<itemref idref="a-municipal-report.xhtml"/>
+		<!-- Munsey's 1910-02, from Whirligigs -->
+		<itemref idref="a-technical-error.xhtml"/>
+		<!-- Cosmopolitan v49n2 1910-07, from Sixes and Sevens -->
+		<itemref idref="let-me-feel-your-pulse.xhtml"/>
+		<!-- "Monthly Magazine Section" 1910-07, from Rolling Stones -->
+		<itemref idref="the-friendly-call.xhtml"/>
+		<!-- Hampton's v25n2 1910-08, from Waifs and Strays -->
 		<itemref idref="the-snow-man.xhtml"/>
+		<!-- Everybody's v23n3 1910-09, from Sixes and Sevens -->
+		<itemref idref="law-and-order.xhtml"/>
+		<!-- 1911, from Rolling Stones -->
+		<itemref idref="an-unfinished-christmas-story.xhtml"/>
+		<!-- Everybody's v25 1911-12, from Rolling Stones (unfinished) -->
+		<itemref idref="the-unprofitable-servant.xhtml"/>
+		<!-- 1912, from Rolling Stones (last story, left unfinished) -->
+		<itemref idref="the-dream.xhtml"/>
+		<!-- Cosmopolitan 1912-10 (probably written 1904), from The Two Women (1910) -->
+		<itemref idref="a-fog-in-santone.xhtml"/>
+		<!-- New York Sunday World 1932-11-05(?), from The Trimmed Lamp -->
+		<itemref idref="the-purple-dress.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
