@@ -141,6 +141,7 @@
 		<item href="text/a-lickpenny-lover.xhtml" id="a-lickpenny-lover.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-little-local-colour.xhtml" id="a-little-local-colour.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-little-talk-about-mobs.xhtml" id="a-little-talk-about-mobs.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-lunar-episode.xhtml" id="a-lunar-episode.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-madison-square-arabian-night.xhtml" id="a-madison-square-arabian-night.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-matter-of-loyalty.xhtml" id="a-matter-of-loyalty.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-matter-of-mean-elevation.xhtml" id="a-matter-of-mean-elevation.xhtml" media-type="application/xhtml+xml"/>
@@ -153,6 +154,7 @@
 		<item href="text/a-personal-insult.xhtml" id="a-personal-insult.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-philistine-in-bohemia.xhtml" id="a-philistine-in-bohemia.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-poor-rule.xhtml" id="a-poor-rule.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-professional-secret.xhtml" id="a-professional-secret.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-question-of-direction.xhtml" id="a-question-of-direction.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-ramble-in-aphasia.xhtml" id="a-ramble-in-aphasia.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-retrieved-reformation.xhtml" id="a-retrieved-reformation.xhtml" media-type="application/xhtml+xml"/>
@@ -177,6 +179,7 @@
 		<item href="text/after-twenty-years.xhtml" id="after-twenty-years.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-adjustment-of-nature.xhtml" id="an-adjustment-of-nature.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-afternoon-miracle.xhtml" id="an-afternoon-miracle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-apology.xhtml" id="an-apology.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-expensive-veracity.xhtml" id="an-expensive-veracity.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-inspiration.xhtml" id="an-inspiration.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-opportunity-declined.xhtml" id="an-opportunity-declined.xhtml" media-type="application/xhtml+xml"/>
@@ -198,6 +201,7 @@
 		<item href="text/board-and-ancestors.xhtml" id="board-and-ancestors.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/book-reviews.xhtml" id="book-reviews.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/brickdust-row.xhtml" id="brickdust-row.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/bulgers-friend.xhtml" id="bulgers-friend.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/buried-treasure.xhtml" id="buried-treasure.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/buying-a-piano.xhtml" id="buying-a-piano.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/by-courier.xhtml" id="by-courier.xhtml" media-type="application/xhtml+xml"/>
@@ -246,7 +250,7 @@
 		<item href="text/his-dilemma.xhtml" id="his-dilemma.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/his-doubt.xhtml" id="his-doubt.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/his-only-opportunity.xhtml" id="his-only-opportunity.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/his-tension.xhtml" id="his-tension.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/his-pension.xhtml" id="his-pension.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/holding-up-a-train.xhtml" id="holding-up-a-train.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hostages-to-momus.xhtml" id="hostages-to-momus.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/how-it-started.xhtml" id="how-it-started.xhtml" media-type="application/xhtml+xml"/>
@@ -297,7 +301,7 @@
 		<item href="text/queries-and-answers.xhtml" id="queries-and-answers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/recognition.xhtml" id="recognition.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/reconciliation.xhtml" id="reconciliation.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/red-conliris-eloquence.xhtml" id="red-conliris-eloquence.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/red-conlins-eloquence.xhtml" id="red-conlins-eloquence.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/relieved.xhtml" id="relieved.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/revenge.xhtml" id="revenge.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/ridiculous.xhtml" id="ridiculous.xhtml" media-type="application/xhtml+xml"/>
@@ -368,6 +372,7 @@
 		<item href="text/the-duel.xhtml" id="the-duel.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-duplicity-of-hargraves.xhtml" id="the-duplicity-of-hargraves.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-easter-of-the-soul.xhtml" id="the-easter-of-the-soul.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-elusive-tenderloin.xhtml" id="the-elusive-tenderloin.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-emancipation-of-billy.xhtml" id="the-emancipation-of-billy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-enchanted-kiss.xhtml" id="the-enchanted-kiss.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-enchanted-profile.xhtml" id="the-enchanted-profile.xhtml" media-type="application/xhtml+xml"/>
@@ -459,6 +464,7 @@
 		<item href="text/the-sphinx-apple.xhtml" id="the-sphinx-apple.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-sporting-editor-on-culture.xhtml" id="the-sporting-editor-on-culture.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-strangers-appeal.xhtml" id="the-strangers-appeal.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-struggle-of-the-outliers.xhtml" id="the-struggle-of-the-outliers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-sunday-excursionist.xhtml" id="the-sunday-excursionist.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tale-of-a-tainted-tenner.xhtml" id="the-tale-of-a-tainted-tenner.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-telegram.xhtml" id="the-telegram.xhtml" media-type="application/xhtml+xml"/>
@@ -476,6 +482,7 @@
 		<item href="text/the-world-and-the-door.xhtml" id="the-world-and-the-door.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wounded-veteran.xhtml" id="the-wounded-veteran.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/thimble-thimble.xhtml" id="thimble-thimble.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/three-paragraphs.xhtml" id="three-paragraphs.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/to-him-who-waits.xhtml" id="to-him-who-waits.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/tobins-palm.xhtml" id="tobins-palm.xhtml" media-type="application/xhtml+xml"/>
@@ -513,6 +520,8 @@
 		<itemref idref="the-great-french-detective-in-austin.xhtml"/>
 		<itemref idref="tracked-to-doom.xhtml"/>
 		<itemref idref="a-snapshot-at-the-president.xhtml"/>
+		<itemref idref="three-paragraphs.xhtml"/>
+		<itemref idref="a-lunar-episode.xhtml"/>
 		<itemref idref="the-sensitive-colonel-jay.xhtml"/>
 		<itemref idref="taking-no-chances.xhtml"/>
 		<itemref idref="a-matter-of-loyalty.xhtml"/>
@@ -622,6 +631,7 @@
 		<itemref idref="a-sure-method.xhtml"/>
 		<itemref idref="whistling-dicks-christmas-stocking.xhtml"/>
 		<itemref idref="georgias-ruling.xhtml"/>
+		<itemref idref="bulgers-friend.xhtml"/>
 		<itemref idref="a-blackjack-bargainer.xhtml"/>
 		<itemref idref="the-duplicity-of-hargraves.xhtml"/>
 		<itemref idref="the-passing-of-black-eagle.xhtml"/>
@@ -632,6 +642,8 @@
 		<itemref idref="madame-bo-peep-of-the-ranches.xhtml"/>
 		<itemref idref="an-afternoon-miracle.xhtml"/>
 		<itemref idref="a-call-loan.xhtml"/>
+		<itemref idref="the-struggle-of-the-outliers.xhtml"/>
+		<itemref idref="a-professional-secret.xhtml"/>
 		<itemref idref="cupid-a-la-carte.xhtml"/>
 		<itemref idref="a-departmental-case.xhtml"/>
 		<itemref idref="round-the-circle.xhtml"/>
@@ -663,6 +675,7 @@
 		<itemref idref="a-chaparral-christmas-gift.xhtml"/>
 		<itemref idref="the-sphinx-apple.xhtml"/>
 		<itemref idref="the-pimienta-pancakes.xhtml"/>
+		<itemref idref="the-elusive-tenderloin.xhtml"/>
 		<itemref idref="the-social-triangle.xhtml"/>
 		<itemref idref="a-chaparral-prince.xhtml"/>
 		<itemref idref="the-ferry-of-unfulfilment.xhtml"/>
