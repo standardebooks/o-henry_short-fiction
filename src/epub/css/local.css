@@ -6,24 +6,12 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+blockquote[xml|lang]{
+	font-style: italic;
+}
+
 abbr.era{
 	font-variant: all-small-caps;
-}
-
-table{
-	margin: 1em auto;
-}
-
-tr:last-child td:last-child{
-	border-top: 1px solid;
-}
-
-td:first-child{
-	padding-right: 2em;
-}
-
-td:last-child{
-	text-align: right;
 }
 
 [epub|type~="epigraph"]{
@@ -104,12 +92,14 @@ p span.i3{
 	text-align: right;
 }
 
+[epub|type~="z3998:salutation"] + p,
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
 }
 
 [epub|type~="z3998:recipient"],
-[epub|type~="z3998:salutation"]{
+[epub|type~="z3998:salutation"],
+[epub|type~="z3998:sender"]{
 	font-variant: small-caps;
 }
 
@@ -118,8 +108,18 @@ footer{
 	text-align: right;
 }
 
+p.signature{
+	text-align: right;
+}
+
 .signature{
 	font-variant: small-caps;
+}
+
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-indent: 0;
+	text-align: left;
 }
 
 [epub|type~="z3998:drama"] tr:first-child td{
@@ -171,4 +171,62 @@ footer{
 
 [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
+}
+
+#conscience-in-art table{
+	margin: 1em auto;
+}
+
+#conscience-in-art tr:last-child td:last-child{
+	border-top: 1px solid;
+}
+
+#conscience-in-art td:first-child{
+	padding-right: 2em;
+}
+
+#conscience-in-art td:last-child{
+	text-align: right;
+}
+
+#sound-and-fury p:last-child{
+    font-variant: small-caps;
+	margin-top: 1em;
+	text-align: center;
+}
+
+#the-vitagraphoscope section > header + *{
+	margin: 0;
+}
+
+#the-vitagraphoscope header{
+	font-variant: small-caps;
+	hyphens: none;
+	-epub-hyphens: none;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	text-align: center;
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+
+#the-vitagraphoscope header p:nth-child(2){
+	font-style: italic;
+	font-variant: normal;
+}
+
+#the-vitagraphoscope-1-3 p:last-child{
+	font-variant: small-caps;
+	margin-top: 1em;
+	text-align: center;
+}
+
+#a-departmental-case blockquote > header{
+	font-variant: all-small-caps;
+	margin-bottom: 1em;
+	text-align: center;
+}
+
+#a-departmental-case blockquote > header + p {
+	font-variant: small-caps;
 }
