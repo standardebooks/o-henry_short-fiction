@@ -1048,6 +1048,8 @@
 		<itemref idref="compliments-of-the-season.xhtml"/>
 		<!-- Munsey's 1906-12, from Heart of the West -->
 		<itemref idref="seats-of-the-haughty.xhtml"/>
+		<!-- Unknown, from The Trimmed Lamp -->
+		<itemref idref="the-purple-dress.xhtml"/>
 		<!-- Sunday 1907-01-13, from Strictly Business -->
 		<itemref idref="past-one-at-rooneys.xhtml"/>
 		<!-- The American 1907-02, from Heart of the West -->
@@ -1158,12 +1160,10 @@
 		<itemref idref="an-unfinished-christmas-story.xhtml"/>
 		<!-- Everybody's v25 1911-12, from Rolling Stones (unfinished) -->
 		<itemref idref="the-unprofitable-servant.xhtml"/>
-		<!-- 1912, from Rolling Stones (last story, left unfinished) -->
-		<itemref idref="the-dream.xhtml"/>
 		<!-- Cosmopolitan 1912-10 (probably written 1904), from The Two Women (1910) -->
 		<itemref idref="a-fog-in-santone.xhtml"/>
-		<!-- New York Sunday World 1932-11-05(?), from The Trimmed Lamp -->
-		<itemref idref="the-purple-dress.xhtml"/>
+		<!-- 1912, from Rolling Stones (last story, left unfinished) -->
+		<itemref idref="the-dream.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
