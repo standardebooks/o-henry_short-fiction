@@ -1,5 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
 
 span[epub|type~="subtitle"]{
 	display: block;
@@ -8,6 +9,11 @@ span[epub|type~="subtitle"]{
 
 blockquote[xml|lang]{
 	font-style: italic;
+}
+
+.card > p{
+	font-variant: small-caps;
+	text-align: center;
 }
 
 abbr.era{
@@ -44,6 +50,11 @@ section > header [epub|type~="epigraph"]{
 	section > header [epub|type~="epigraph"]{
 		display: table;
 	}
+}
+
+[epub|type~="z3998:poem"] header{
+    font-variant: small-caps;
+    margin: 1em;
 }
 
 [epub|type~="z3998:poem"] p,
@@ -229,4 +240,29 @@ p.signature{
 
 #a-departmental-case blockquote > header + p {
 	font-variant: small-caps;
+}
+
+#the-proem blockquote{
+	font-variant: all-small-caps;
+	text-align: center;
+}
+
+#the-rose-of-dixie blockquote{
+	text-align: center;
+}
+
+#the-rose-of-dixie blockquote > p:nth-child(3n) > b{
+	font-variant: normal;
+	text-transform: uppercase;
+}
+
+#getting-at-the-facts blockquote > header{
+	font-variant: small-caps;
+	margin-bottom: 1em;
+	text-align: center;
+}
+
+#reconciliation p:last-child{
+    text-align: center;
+    text-indent: 0;
 }
