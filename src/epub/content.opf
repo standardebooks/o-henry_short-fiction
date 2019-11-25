@@ -41,20 +41,49 @@
 			LONG_DESCRIPTION
 		]]></meta>
 		<dc:language>en-US</dc:language>
+		<!-- Cabbages and Kings -->
+		<dc:source>https://www.gutenberg.org/ebooks/2777</dc:source>
 		<dc:source>https://archive.org/details/cu31924022067254</dc:source>
-		<dc:source>https://archive.org/details/cu31924022025799</dc:source>
-		<dc:source>https://archive.org/details/cu31924022025807</dc:source>
-		<dc:source>https://archive.org/details/postscripts00henr</dc:source>
-		<dc:source>https://archive.org/details/roadsdestiny00henrgoog</dc:source>
-		<dc:source>https://archive.org/details/rollingstones04henrgoog</dc:source>
-		<dc:source>https://archive.org/details/sixesandsevens00henrgoog</dc:source>
-		<dc:source>https://archive.org/details/StrictlyBusiness</dc:source>
+		<!-- The Four Million -->
+		<dc:source>https://www.gutenberg.org/ebooks/2776</dc:source>
 		<dc:source>https://archive.org/details/cu31924012602755</dc:source>
-		<dc:source>https://archive.org/details/gentlegrafter02henrgoog</dc:source>
+		<!-- The Trimmed Lamp -->
+		<dc:source>https://www.gutenberg.org/ebooks/3707</dc:source>
 		<dc:source>https://archive.org/details/cu31924022015394</dc:source>
+		<!-- Heart of the West -->
+		<dc:source>https://www.gutenberg.org/ebooks/1725</dc:source>
+		<dc:source>https://archive.org/details/cu31924022025799</dc:source>
+		<!-- The Gentle Grafter -->
+		<dc:source>https://www.gutenberg.org/ebooks/1805</dc:source>
+		<dc:source>https://archive.org/details/gentlegrafter02henrgoog</dc:source>
+		<!-- Voice of the City -->
+		<dc:source>https://www.gutenberg.org/ebooks/1444</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.93860</dc:source>
-		<dc:source>https://archive.org/details/waifsandstrayst00henrgoog</dc:source>
+		<!-- Roads of Destiny -->
+		<dc:source>https://www.gutenberg.org/ebooks/1646</dc:source>
+		<dc:source>https://archive.org/details/roadsdestiny00henrgoog</dc:source>
+		<!-- Options -->
+		<dc:source>https://www.gutenberg.org/ebooks/1583</dc:source>
+		<dc:source>https://archive.org/details/cu31924022025807</dc:source>
+		<!-- Strictly Business -->
+		<dc:source>https://www.gutenberg.org/ebooks/2141</dc:source>
+		<dc:source>https://archive.org/details/StrictlyBusiness</dc:source>
+		<!-- Whirligigs -->
+		<dc:source>https://www.gutenberg.org/ebooks/1595</dc:source>
 		<dc:source>https://archive.org/details/whirligigs02henrgoog</dc:source>
+		<!-- Sixes and Sevens -->
+		<dc:source>https://www.gutenberg.org/ebooks/2851</dc:source>
+		<dc:source>https://archive.org/details/sixesandsevens00henrgoog</dc:source>
+		<!-- Rolling Stones -->
+		<dc:source>https://www.gutenberg.org/ebooks/3815</dc:source>
+		<dc:source>https://archive.org/details/rollingstones04henrgoog</dc:source>
+		<!-- Waifs and Strays -->
+		<dc:source>https://www.gutenberg.org/ebooks/2295</dc:source>
+		<dc:source>https://archive.org/details/waifsandstrayst00henrgoog</dc:source>
+		<!-- O Henryana -->
+		<dc:source>https://archive.org/details/ohenryanaseveno00presgoog</dc:source>
+		<!-- Postscripts -->
+		<dc:source>https://archive.org/details/postscripts00henr</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -73,10 +102,9 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Joseph E. Lowenstein</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Lowenstein, Joseph E.</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Anonymous</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Anonymous</meta>
+		<dc:contributor id="transcriber-2">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Online Distributed Proofreading Team, The</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Charles Franks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Franks, Charles</meta>
@@ -116,7 +144,9 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/a-bird-of-bagdad.xhtml" id="a-bird-of-bagdad.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-blackjack-bargainer.xhtml" id="a-blackjack-bargainer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-call-loan.xhtml" id="a-call-loan.xhtml" media-type="application/xhtml+xml"/>
