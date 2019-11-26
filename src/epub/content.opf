@@ -553,7 +553,7 @@
 		<!-- The Rolling Stone 1894, from Rolling Stones -->
 		<itemref idref="a-strange-story.xhtml"/>
 		<!-- The Rolling Stone 1894, from Rolling Stones -->
-		<itemref idref="the-prisoner-of-zembla-by-anthony-hoke.xhtml"/>
+		<itemref idref="the-prisoner-of-zembla.xhtml"/>
 		<!-- The Rolling Stone 1894, from Rolling Stones -->
 		<itemref idref="the-great-french-detective-in-austin.xhtml"/>
 		<itemref idref="tracked-to-doom.xhtml"/>
@@ -616,7 +616,7 @@
 		<itemref idref="willing-to-compromise.xhtml"/>
 		<itemref idref="ridiculous.xhtml"/>
 		<itemref idref="guessed-everything-else.xhtml"/>
-		<itemref idref="the-prisoner-of-zembla.xhtml"/>
+		<itemref idref="the-prisoner-of-zembla-by-anthony-hoke.xhtml"/>
 		<itemref idref="lucky-either-way.xhtml"/>
 		<itemref idref="the-bad-man.xhtml"/>
 		<itemref idref="a-slight-mistake.xhtml"/>
