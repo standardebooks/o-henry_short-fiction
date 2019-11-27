@@ -16,8 +16,9 @@ blockquote[xml|lang]{
 	text-align: center;
 }
 
-abbr.era{
-	font-variant: all-small-caps;
+abbr.acronym,
+abbr.era {
+    font-variant: all-small-caps;
 }
 
 [epub|type~="epigraph"]{
