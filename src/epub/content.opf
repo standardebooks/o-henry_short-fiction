@@ -420,7 +420,7 @@
 		<item href="text/the-girl-and-the-graft.xhtml" id="the-girl-and-the-graft.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-girl-and-the-habit.xhtml" id="the-girl-and-the-habit.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-gold-that-glittered.xhtml" id="the-gold-that-glittered.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-good-boy-mostly-in-words-of-one-syllable.xhtml" id="the-good-boy-mostly-in-words-of-one-syllable.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-good-boy.xhtml" id="the-good-boy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-great-french-detective-in-austin.xhtml" id="the-great-french-detective-in-austin.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-greater-coney.xhtml" id="the-greater-coney.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-green-door.xhtml" id="the-green-door.xhtml" media-type="application/xhtml+xml"/>
@@ -663,7 +663,7 @@
 		<itemref idref="marvelous.xhtml"/>
 		<itemref idref="the-confession-of-a-murderer.xhtml"/>
 		<itemref idref="the-strangers-appeal.xhtml"/>
-		<itemref idref="the-good-boy-mostly-in-words-of-one-syllable.xhtml"/>
+		<itemref idref="the-good-boy.xhtml"/>
 		<itemref idref="the-colonels-romance.xhtml"/>
 		<itemref idref="a-narrow-escape.xhtml"/>
 		<itemref idref="a-years-supply.xhtml"/>
