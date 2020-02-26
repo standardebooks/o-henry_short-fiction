@@ -153,6 +153,7 @@
 		<item href="text/a-chaparral-christmas-gift.xhtml" id="a-chaparral-christmas-gift.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-chaparral-prince.xhtml" id="a-chaparral-prince.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-cheering-thought.xhtml" id="a-cheering-thought.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-christmas-pi.xhtml" id="a-christmas-pi.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-comedy-in-rubber.xhtml" id="a-comedy-in-rubber.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-conditional-pardon.xhtml" id="a-conditional-pardon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-cosmopolite-in-a-cafe.xhtml" id="a-cosmopolite-in-a-cafe.xhtml" media-type="application/xhtml+xml"/>
@@ -1176,6 +1177,8 @@
 		<itemref idref="the-venturers.xhtml"/>
 		<!-- Hampton's v23n5 1909-11, from Strictly Business -->
 		<itemref idref="a-municipal-report.xhtml"/>
+		<!-- Metropolitan 1909-12 -->
+		<itemref idref="a-christmas-pi.xhtml"/>
 		<!-- Munsey's 1910-02, from Whirligigs -->
 		<itemref idref="a-technical-error.xhtml"/>
 		<!-- Cosmopolitan v49n2 1910-07, from Sixes and Sevens -->
