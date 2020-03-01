@@ -104,6 +104,10 @@ p span.i3{
 	text-align: right;
 }
 
+[epub|type~="z3998:salutation"]{
+    text-align: left;
+}
+
 [epub|type~="z3998:salutation"] + p,
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
@@ -266,4 +270,14 @@ p.signature{
 #reconciliation p:last-child{
     text-align: center;
     text-indent: 0;
+}
+
+#a-bird-of-bagdad header{
+    margin-bottom: 2em;
+    margin-top: 1em
+}
+
+#a-bird-of-bagdad header > p{
+    font-variant: small-caps;
+    text-align: center;
 }
