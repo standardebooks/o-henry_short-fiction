@@ -11,6 +11,7 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 
+/* business cards, personal cards, etc. */
 .card > p{
 	font-variant: small-caps;
 	text-align: center;
@@ -21,6 +22,7 @@ abbr.era {
     font-variant: all-small-caps;
 }
 
+/* epigraph */
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
@@ -52,7 +54,9 @@ section > header [epub|type~="epigraph"]{
 		display: table;
 	}
 }
+/* end of epigraph */
 
+/* poetry, songs */
 [epub|type~="z3998:poem"] header{
     font-variant: small-caps;
     margin: 1em;
@@ -99,7 +103,9 @@ p span.i3{
 	text-indent: -1em;
 	padding-left: 4em;
 }
+/* end of poetry, songs */
 
+/* letters */
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
@@ -119,12 +125,8 @@ p span.i3{
 	font-variant: small-caps;
 }
 
-footer{
-	margin-top: 1em;
-	text-align: right;
-}
-
-p.signature{
+[epub|type~="z3998:letter"] footer,
+p.signature {
 	text-align: right;
 }
 
@@ -137,7 +139,9 @@ p.signature{
 	text-indent: 0;
 	text-align: left;
 }
+/* end of letter */
 
+/* drama */
 [epub|type~="z3998:drama"] tr:first-child td{
 	padding-top: 0;
 }
@@ -188,7 +192,9 @@ p.signature{
 [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
 }
+/* end of drama */
 
+/* story-specific formatting */
 #conscience-in-art table{
 	margin: 1em auto;
 }
@@ -254,6 +260,11 @@ p.signature{
 
 #the-rose-of-dixie blockquote{
 	text-align: center;
+	text-indent: 0;
+}
+
+#the-rose-of-dixie blockquote > p{
+	text-indent: 0;
 }
 
 #the-rose-of-dixie blockquote > p:nth-child(3n) > b{
