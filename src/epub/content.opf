@@ -37,9 +37,10 @@
 		<meta property="term" refines="#subject-2">sh85121819</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A collection of O. Henry short stories, ordered by date of publication.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONG_DESCRIPTION
-		]]></meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;William Sydney Porter, known to readers as O. Henry, was a true raconteur. He was a draftsman, a bank teller, a newspaper writer, a fugitive from justice in Central America, a writer living in New York City, and he told stories at each stop and about each stop. His stories were known for their vivid characters who came to life, and sometimes death, in only a few pages. But perhaps the defining attribute of his stories was their “twist” endings, where the outcome is a surprise to both the characters and the readers.&lt;/p&gt;
+			&lt;p&gt;This collection gathers all of his stories written in New York and published in various popular magazines of the time, as well as those he wrote while at the Houston &lt;i&gt;Post&lt;/i&gt; that were not attributed to him until many years after his death.&lt;/p&gt;
+		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Cabbages and Kings -->
 		<dc:source>https://www.gutenberg.org/ebooks/2777</dc:source>
@@ -86,9 +87,7 @@
 		<dc:source>https://archive.org/details/postscripts00henr</dc:source>
 		<!-- O. Henry Encore (original transcription) -->
 		<dc:source>https://catalog.hathitrust.org/Record/007926272</dc:source>
-		<dc:source>https://chroniclingamerica.loc.gov/lccn/sn86071197/issues/</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
+*po		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Short_fiction</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/o-henry_short-fiction</meta>
@@ -595,7 +594,7 @@
 		<itemref idref="three-paragraphs.xhtml"/>
 		<!-- The Rolling Stone v2n2 1895-02-02, from O Henryana -->
 		<itemref idref="a-lunar-episode.xhtml"/>
-	<!-- Houston Post 1895-6, from Postscripts -->
+		<!-- Houston Post 1895-6, from Postscripts -->
 		<itemref idref="the-sensitive-colonel-jay.xhtml"/>
 		<itemref idref="the-distraction-of-grief.xhtml"/>
 		<itemref idref="a-sporting-interest.xhtml"/>
@@ -656,7 +655,7 @@
 		<itemref idref="knew-what-was-needed.xhtml"/>
 		<itemref idref="some-ancient-news-notes.xhtml"/>
 		<itemref idref="a-sure-method.xhtml"/>
-	<!-- end of undated (almost certainly 1895) Houston Post from Postscripts -->
+		<!-- end of undated (almost certainly 1895) Houston Post from Postscripts -->
 		<!-- Houston Post 1895-11-08, from O. Henry Encore -->
 		<itemref idref="a-tragedy.xhtml"/>
 		<!-- Houston Post 1895-11-24, from O. Henry Encore -->
@@ -778,7 +777,7 @@
 		<itemref idref="barbershop-adventure.xhtml"/>
 		<!-- Houston Post 1896-06-22, p4, from Postscripts -->
 		<itemref idref="somebody-lied.xhtml"/>
-	<!-- Cabbages and Kings, written in Honduras in 1897 but published in 1904 -->
+		<!-- Cabbages and Kings, written in Honduras in 1897 but published in 1904 -->
 		<itemref idref="the-proem.xhtml"/>
 		<itemref idref="fox-in-the-morning.xhtml"/>
 		<!-- 1902-01, Smart Set -->
@@ -807,7 +806,7 @@
 		<itemref idref="rouge-et-noir.xhtml"/>
 		<itemref idref="two-recalls.xhtml"/>
 		<itemref idref="the-vitagraphoscope.xhtml"/>
-	<!-- end of Cabbages and Kings -->
+		<!-- end of Cabbages and Kings -->
 		<!-- McClure's v14n2 1899-12, from Roads of Destiny -->
 		<itemref idref="whistling-dicks-christmas-stocking.xhtml"/>
 		<!-- Outlook 1900-06-30, from Whirligigs -->
