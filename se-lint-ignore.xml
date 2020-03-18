@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="let-me-feel-your-pulse.xhtml">
+		<ignore>
+			<code>t-005</code>
+			<reason>Quotes are for a single word, not dialog.</reason>
+		</ignore>
+	</file>
+	<file path="sociology-in-serge-and-straw.xhtml">
+		<ignore>
+			<code>t-005</code>
+			<reason>Quotes are for a single word, not dialog.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
