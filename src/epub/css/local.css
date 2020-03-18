@@ -294,6 +294,7 @@ p.signature{
 }
 
 #the-proem blockquote{
+	font-style: normal;
 	font-variant: all-small-caps;
 	text-align: center;
 }
