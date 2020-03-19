@@ -42,7 +42,7 @@ abbr.era{
 	font-style: italic;
 }
 
-section > header [epub|type~="epigraph"]{
+article > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
 	max-width: 80%;
@@ -50,7 +50,7 @@ section > header [epub|type~="epigraph"]{
 }
 
 @supports(display: table){
-	section > header [epub|type~="epigraph"]{
+	article > header [epub|type~="epigraph"]{
 		display: table;
 	}
 }
