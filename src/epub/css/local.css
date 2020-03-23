@@ -230,6 +230,7 @@ p.signature{
 	font-variant: small-caps;
 	text-align: center;
 }
+
 /* override core's formatting of a 3em top margin for paragraph following a header */
 #a-bird-of-bagdad header + p{
 	margin-top: 0;

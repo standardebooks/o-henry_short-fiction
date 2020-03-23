@@ -782,7 +782,7 @@
 		<itemref idref="barbershop-adventure.xhtml"/>
 		<!-- Houston Post 1896-06-22, p4, from Postscripts -->
 		<itemref idref="somebody-lied.xhtml"/>
-	<!-- Cabbages and Kings, written in Honduras in 1897 but published in 1904 -->
+		<!-- Cabbages and Kings, written in Honduras in 1897 but published in 1904 -->
 		<itemref idref="the-proem.xhtml"/>
 		<itemref idref="fox-in-the-morning.xhtml"/>
 		<!-- 1902-01, Smart Set -->
@@ -811,7 +811,7 @@
 		<itemref idref="rouge-et-noir.xhtml"/>
 		<itemref idref="two-recalls.xhtml"/>
 		<itemref idref="the-vitagraphoscope.xhtml"/>
-	<!-- end of Cabbages and Kings -->
+		<!-- end of Cabbages and Kings -->
 		<!-- McClure's v14n2 1899-12, from Roads of Destiny -->
 		<itemref idref="whistling-dicks-christmas-stocking.xhtml"/>
 		<!-- Outlook 1900-06-30, from Whirligigs -->
