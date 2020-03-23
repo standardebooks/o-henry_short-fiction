@@ -39,8 +39,8 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of O. Henry short stories, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;William Sydney Porter, known to readers as O. Henry, was a true raconteur. As a draftsman, a bank teller, a newspaper writer, a fugitive from justice in Central America, a writer living in New York City, he told stories, at each stop and about each stop. His stories are known for their vivid characters who come to life, and sometimes death, in only a few pages. But the most famous characteristic of O. Henry’s stories are the famous “twist” endings, where the outcome comes as a surprise both to the characters and the readers. O. Henry’s work was widely recognized and lauded, so much so that a few years after his death an award was founded in his name to recognize the best American short story (now stories) of the year.&lt;/p&gt;
-			&lt;p&gt;This collection gathers all of his stories written in New York and published in various popular magazines of the time, as well as those he wrote while at the Houston &lt;i&gt;Post&lt;/i&gt; that were not attributed to him until many years after his death.&lt;/p&gt;
+			&lt;p&gt;William Sydney Porter, known to readers as O. Henry, was a true raconteur. As a draftsman, a bank teller, a newspaper writer, a fugitive from justice in Central America, and a writer living in New York City, he told stories at each stop and about each stop. His stories are known for their vivid characters who come to life, and sometimes death, in only a few pages. But the most famous characteristic of O. Henry’s stories are the famous “twist” endings, where the outcome comes as a surprise both to the characters and the readers. O. Henry’s work was widely recognized and lauded, so much so that a few years after his death an award was founded in his name to recognize the best American short story (now stories) of the year.&lt;/p&gt;
+			&lt;p&gt;This collection gathers all of his available short stories that are in the U.S. public domain. They were published in various popular magazines of the time, as well as in the Houston &lt;i&gt;Post&lt;/i&gt;, where they were not attributed to him until many years after his death.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Cabbages and Kings -->
@@ -101,6 +101,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Christopher R. W. Nevinson</dc:contributor>
 		<meta property="file-as" refines="#artist">Nevinson, Christopher R. W.</meta>
+		<meta property="se:name.person.full-name" refines="#author">Christopher Richard Wynne Nevinson</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Christopher_R._W._Nevinson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n86139912</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
@@ -146,6 +147,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
