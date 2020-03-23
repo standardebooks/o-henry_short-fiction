@@ -165,7 +165,7 @@
 		<item href="text/a-conditional-pardon.xhtml" id="a-conditional-pardon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-cosmopolite-in-a-cafe.xhtml" id="a-cosmopolite-in-a-cafe.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-departmental-case.xhtml" id="a-departmental-case.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/a-dinner-at-.xhtml" id="a-dinner-at-.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-dinner-at.xhtml" id="a-dinner-at.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-disagreement.xhtml" id="a-disagreement.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-double-dyed-deceiver.xhtml" id="a-double-dyed-deceiver.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-fatal-error.xhtml" id="a-fatal-error.xhtml" media-type="application/xhtml+xml"/>
@@ -977,7 +977,7 @@
 		<!-- Century v68n2 1904-06, from Heart of the West -->
 		<itemref idref="the-missing-chord.xhtml"/>
 		<!-- The Critic v44n6 1904-06, from Rolling Stones -->
-		<itemref idref="a-dinner-at-.xhtml"/>
+		<itemref idref="a-dinner-at.xhtml"/>
 		<!-- New York Sunday World v44n15629 1904-06-05, from The Voice of the City -->
 		<itemref idref="one-thousand-dollars.xhtml"/>
 		<!-- New York Sunday World v44n16543 1904-06-19, from The Voice of the City -->
