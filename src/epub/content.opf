@@ -36,6 +36,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85121819</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of O. Henry short stories, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;William Sydney Porter, known to readers as O. Henry, was a true raconteur. As a draftsman, a bank teller, a newspaper writer, a fugitive from justice in Central America, a writer living in New York City, he told stories, at each stop and about each stop. His stories are known for their vivid characters who come to life, and sometimes death, in only a few pages. But the most famous characteristic of O. Henry’s stories are the famous “twist” endings, where the outcome comes as a surprise both to the characters and the readers. O. Henry’s work was widely recognized and lauded, so much so that a few years after his death an award was founded in his name to recognize the best American short story (now stories) of the year.&lt;/p&gt;
@@ -89,10 +90,11 @@
 		<dc:source>https://catalog.hathitrust.org/Record/007926272</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Short_fiction</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/O._Henry#Short_stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/o-henry_short-fiction</meta>
 		<dc:creator id="author">O. Henry</dc:creator>
 		<meta property="file-as" refines="#author">Henry, O.</meta>
+		<meta property="se:name.person.full-name" refines="#author">William Sydney Porter</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/O._Henry</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79071080</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
@@ -105,33 +107,36 @@
 		<dc:contributor id="transcriber-1">Joseph E. Lowenstein</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Lowenstein, Joseph E.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Online Distributed Proofreading Team, The</meta>
+		<dc:contributor id="transcriber-2">Charles Franks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Franks, Charles</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Charles Franks</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Franks, Charles</meta>
+		<dc:contributor id="transcriber-3">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-4">Greg Weeks</dc:contributor>
-		<meta property="file-as" refines="#transcriber-4">Weeks, Greg</meta>
+		<dc:contributor id="transcriber-4">John Bickers</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Bickers, John</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-5">John Bickers</dc:contributor>
-		<meta property="file-as" refines="#transcriber-5">Bickers, John</meta>
+		<dc:contributor id="transcriber-5">Dagny</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Dagny</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-6">Dagny</dc:contributor>
-		<meta property="file-as" refines="#transcriber-6">Dagny</meta>
+		<dc:contributor id="transcriber-6">Earl C. Beach</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Beach, Earl C.</meta>
 		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-7">Earl C. Beach</dc:contributor>
-		<meta property="file-as" refines="#transcriber-7">Beach, Earl C.</meta>
+		<dc:contributor id="transcriber-7">Glynn Burleson</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Burleson, Glynn</meta>
 		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-8">Glynn Burleson</dc:contributor>
-		<meta property="file-as" refines="#transcriber-8">Burleson, Glynn</meta>
+		<dc:contributor id="transcriber-8">Jim Tinsley</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Tinsley, Jim</meta>
 		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-9">Jim Tinsley</dc:contributor>
-		<meta property="file-as" refines="#transcriber-9">Tinsley, Jim</meta>
+		<dc:contributor id="transcriber-9">Tim O'Connell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-9">O'Connell, Tim</meta>
 		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-10">Tim O'Connell</dc:contributor>
-		<meta property="file-as" refines="#transcriber-10">O'Connell, Tim</meta>
+		<dc:contributor id="transcriber-10">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#transcriber-10">Rice, Vince</meta>
 		<meta property="role" refines="#transcriber-10" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-11">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-11">Online Distributed Proofreading Team, The</meta>
+		<meta property="role" refines="#transcriber-11" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Vince Rice</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Rice, Vince</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.brokenandsaved.com</meta>
