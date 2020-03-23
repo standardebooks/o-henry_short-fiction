@@ -137,8 +137,12 @@ p span.i3{
 	font-variant: small-caps;
 }
 
-[epub|type~="z3998:letter"] footer,
-p.signature{
+[epub|type~="z3998:letter"] footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+#queries-and-answers p.signature{
 	text-align: right;
 }
 
