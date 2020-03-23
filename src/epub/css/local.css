@@ -167,7 +167,7 @@ p.signature{
 }
 
 [epub|type~="z3998:drama"]{
-    border-collapse: collapse;
+	border-collapse: collapse;
 }
 
 [epub|type~="z3998:drama"] tr:first-child td{
@@ -250,7 +250,7 @@ p.signature{
 }
 
 #conscience-in-art td:last-child{
-    font-variant-numeric: tabular-nums;
+	font-variant-numeric: tabular-nums;
 	text-align: right;
 }
 
@@ -280,6 +280,7 @@ p.signature{
 	font-size: large;
 	font-weight: bold;
 	text-indent: 0;
+	text-transform: uppercase;
 }
 
 #reconciliation p:last-child{
