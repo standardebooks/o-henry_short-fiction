@@ -347,3 +347,7 @@ p span.i3{
 	margin-top: 1em;
 	text-align: center;
 }
+
+#a-matter-of-mean-elevation blockquote{
+	font-style: italic;
+}
