@@ -12,4 +12,10 @@
 			<reason>Quotes are for a single word, not dialog.</reason>
 		</ignore>
 	</file>
+	<file path="the-roads-we-take.xhtml">
+		<ignore>
+			<code>t-030</code>
+			<reason>Stock ticker symbols are set without periods.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
