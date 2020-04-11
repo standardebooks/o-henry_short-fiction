@@ -17,5 +17,9 @@
 			<code>t-030</code>
 			<reason>Stock ticker symbols are set without periods.</reason>
 		</ignore>
+		<ignore>
+			<code>t-032</code>
+			<reason>Stock ticker symbols are set without periods so the placement is correct.</reason>
+		</ignore>
 	</file>
 </se-lint-ignore>
