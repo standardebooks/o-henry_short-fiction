@@ -351,3 +351,7 @@ p span.i3{
 #a-matter-of-mean-elevation blockquote{
 	font-style: italic;
 }
+
+#calloways-code blockquote p + p{
+	text-indent: 0;
+}
