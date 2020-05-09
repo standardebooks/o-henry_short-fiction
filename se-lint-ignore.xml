@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="a-snapshot-at-the-president.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Matched text is part of longer dialog.</reason>
+		</ignore>
+	</file>
+	<file path="christmas-by-injunction.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Matched text is part of longer dialog.</reason>
+		</ignore>
+	</file>
 	<file path="let-me-feel-your-pulse.xhtml">
 		<ignore>
 			<code>t-005</code>
