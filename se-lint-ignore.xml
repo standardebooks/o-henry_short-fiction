@@ -24,6 +24,12 @@
 			<reason>Quotes are for a single word, not dialog.</reason>
 		</ignore>
 	</file>
+	<file path="the-higher-abdication.xhtml">
+		<ignore>
+			<code>t-043</code>
+			<reason>Matched text are not dialog tags.</reason>
+		</ignore>
+	</file>
 	<file path="the-roads-we-take.xhtml">
 		<ignore>
 			<code>t-030</code>
