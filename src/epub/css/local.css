@@ -26,6 +26,7 @@ abbr.era{
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
+	-epub-hyphens: none;
 }
 
 [epub|type~="epigraph"] i{
@@ -209,6 +210,7 @@ p span.i3{
 
 [epub|type~="z3998:drama"] td[epub|type~="z3998:persona"]{
 	hyphens: none;
+	-epub-hyphens: none;
 	text-align: right;
 	width: 20%;
 }
@@ -328,10 +330,6 @@ p span.i3{
 
 #the-vitagraphoscope header{
 	font-variant: small-caps;
-	hyphens: none;
-	-epub-hyphens: none;
-	page-break-after: avoid;
-	page-break-inside: avoid;
 	text-align: center;
 	margin-top: 2em;
 	margin-bottom: 1em;
