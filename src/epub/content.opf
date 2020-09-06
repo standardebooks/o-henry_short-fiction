@@ -507,7 +507,6 @@
 		<item href="text/the-pride-of-the-cities.xhtml" id="the-pride-of-the-cities.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-princess-and-the-puma.xhtml" id="the-princess-and-the-puma.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-prisoner-of-zembla-by-anthony-hoke.xhtml" id="the-prisoner-of-zembla-by-anthony-hoke.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-prisoner-of-zembla.xhtml" id="the-prisoner-of-zembla.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-proem.xhtml" id="the-proem.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-purple-dress.xhtml" id="the-purple-dress.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-rake-off.xhtml" id="the-rake-off.xhtml" media-type="application/xhtml+xml"/>
@@ -597,8 +596,6 @@
 		<itemref idref="fickle-fortune-or-how-gladys-hustled.xhtml"/>
 		<!-- The Rolling Stone 1894, from Rolling Stones -->
 		<itemref idref="a-strange-story.xhtml"/>
-		<!-- The Rolling Stone 1894, from Rolling Stones -->
-		<itemref idref="the-prisoner-of-zembla.xhtml"/>
 		<!-- The Rolling Stone 1894, from Rolling Stones -->
 		<itemref idref="the-great-french-detective-in-austin.xhtml"/>
 		<itemref idref="tracked-to-doom.xhtml"/>
