@@ -506,7 +506,7 @@
 		<item href="text/the-power-of-reputation.xhtml" id="the-power-of-reputation.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-pride-of-the-cities.xhtml" id="the-pride-of-the-cities.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-princess-and-the-puma.xhtml" id="the-princess-and-the-puma.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-prisoner-of-zembla-by-anthony-hoke.xhtml" id="the-prisoner-of-zembla-by-anthony-hoke.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-prisoner-of-zembla.xhtml" id="the-prisoner-of-zembla.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-proem.xhtml" id="the-proem.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-purple-dress.xhtml" id="the-purple-dress.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-rake-off.xhtml" id="the-rake-off.xhtml" media-type="application/xhtml+xml"/>
@@ -745,8 +745,8 @@
 		<!-- Houston Post 1896-03-18, p10, from Postscripts -->
 		<itemref idref="the-sporting-editor-on-culture.xhtml"/>
 		<itemref idref="a-question-of-direction.xhtml"/>
-		<!-- Houston Post 1896-03-22, p4, from Postscripts -->
-		<itemref idref="the-prisoner-of-zembla-by-anthony-hoke.xhtml"/>
+		<!-- Houston Post 1896-03-22, p12, from Postscripts -->
+		<itemref idref="the-prisoner-of-zembla.xhtml"/>
 		<itemref idref="lucky-either-way.xhtml"/>
 		<!-- Houston Post 1896-03-25, p6, from Postscripts -->
 		<itemref idref="the-bad-man.xhtml"/>
