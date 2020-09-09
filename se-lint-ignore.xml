@@ -6,6 +6,12 @@
 			<reason>Matched text is part of longer dialog.</reason>
 		</ignore>
 	</file>
+	<file path="book-reviews.xhtml">
+		<ignore>
+			<code>s-066</code>
+			<reason>Matched text is not a label + ordinal.</reason>
+		</ignore>
+	</file>
 	<file path="christmas-by-injunction.xhtml">
 		<ignore>
 			<code>t-003</code>
