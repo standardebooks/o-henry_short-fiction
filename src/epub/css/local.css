@@ -138,11 +138,11 @@ p span.i3{
 	text-align: right;
 }
 
-#queries-and-answers p[epub:type~="z3998:signature"]{
+#queries-and-answers p[epub|type~="z3998:signature"]{
 	text-align: right;
 }
 
-[epub:type~="z3998:signature"]{
+[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
 
