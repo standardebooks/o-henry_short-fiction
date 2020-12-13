@@ -127,7 +127,7 @@ p span.i3{
 	font-variant: small-caps;
 }
 
-[epub|type~="z3998:letter"] footer{
+footer{
 	margin-top: 1em;
 	text-align: right;
 }
