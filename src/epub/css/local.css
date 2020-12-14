@@ -10,6 +10,7 @@ blockquote[xml|lang]{
 .card > p{
 	font-variant: small-caps;
 	text-align: center;
+	text-indent: 0;
 }
 
 abbr.acronym,
@@ -286,6 +287,7 @@ footer{
 #sound-and-fury table + p{
 	margin-top: 1em;
 	text-align: center;
+	text-indent: 0;
 }
 
 #the-proem blockquote{
@@ -333,6 +335,7 @@ footer{
 	font-variant: small-caps;
 	margin-top: 1em;
 	text-align: center;
+	text-indent: 0;
 }
 
 #a-matter-of-mean-elevation blockquote{
