@@ -346,6 +346,13 @@ footer{
 	text-indent: 0;
 }
 
+#the-ransom-of-red-chief blockquote[epub|type~="z3998:letter"] header,
+#the-lotus-and-the-cockleburrs blockquote[epub|type~="z3998:letter"] header,
+#shoes blockquote[epub|type~="z3998:letter"] header,
+#extradited-from-bohemia blockquote[epub|type~="z3998:letter"] header{
+	text-align: left;
+}
+
 .editorial{
 	margin: 1em;
 	text-align: center;
