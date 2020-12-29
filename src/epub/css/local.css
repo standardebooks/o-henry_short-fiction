@@ -43,7 +43,7 @@ article > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
 	max-width: 80%;
-	text-align: left;
+	text-align: initial;
 }
 
 @supports(display: table){
@@ -70,7 +70,7 @@ article > header [epub|type~="epigraph"]{
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
@@ -114,7 +114,7 @@ p span.i3{
 }
 
 [epub|type~="z3998:salutation"]{
-	text-align: left;
+	text-align: initial;
 }
 
 [epub|type~="z3998:salutation"] + p,
@@ -144,7 +144,7 @@ footer{
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
 	text-indent: 0;
-	text-align: left;
+	text-align: initial;
 }
 /* end of letter */
 
@@ -350,7 +350,7 @@ footer{
 #the-lotus-and-the-cockleburrs blockquote[epub|type~="z3998:letter"] header,
 #shoes blockquote[epub|type~="z3998:letter"] header,
 #extradited-from-bohemia blockquote[epub|type~="z3998:letter"] header{
-	text-align: left;
+	text-align: initial;
 }
 
 .editorial{
