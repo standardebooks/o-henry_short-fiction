@@ -132,8 +132,8 @@
 		<dc:contributor id="transcriber-8">Jim Tinsley</dc:contributor>
 		<meta property="file-as" refines="#transcriber-8">Tinsley, Jim</meta>
 		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-9">Tim O'Connell</dc:contributor>
-		<meta property="file-as" refines="#transcriber-9">O'Connell, Tim</meta>
+		<dc:contributor id="transcriber-9">Tim O’Connell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-9">O’Connell, Tim</meta>
 		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-10">Vince Rice</dc:contributor>
 		<meta property="file-as" refines="#transcriber-10">Rice, Vince</meta>
