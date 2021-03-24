@@ -571,7 +571,7 @@
 		<item href="text/ulysses-and-the-dogman.xhtml" id="ulysses-and-the-dogman.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/vanity-and-some-sables.xhtml" id="vanity-and-some-sables.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/vereton-villa.xhtml" id="vereton-villa.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/veriton-villa.xhtml" id="veriton-villa.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/what-it-was.xhtml" id="what-it-was.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/what-you-want.xhtml" id="what-you-want.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/while-the-auto-waits.xhtml" id="while-the-auto-waits.xhtml" media-type="application/xhtml+xml"/>
@@ -768,7 +768,7 @@
 		<itemref idref="a-strange-case.xhtml"/>
 		<itemref idref="how-willie-saved-father.xhtml"/>
 		<!-- Houston Post 1896-05-10, p13, from O. Henry Encore -->
-		<itemref idref="vereton-villa.xhtml"/>
+		<itemref idref="veriton-villa.xhtml"/>
 		<itemref idref="a-mystery-of-many-centuries.xhtml"/>
 		<!-- Houston Post 1896-05-10, p13, from Postscripts -->
 		<itemref idref="the-good-boy.xhtml"/>
