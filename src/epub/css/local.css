@@ -14,7 +14,7 @@ blockquote[xml|lang]{
 }
 
 [epub|type~="z3998:acronym"],
-abbr.era{
+[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
