@@ -93,7 +93,7 @@
 		<dc:source>https://archive.org/details/postscripts00henr</dc:source>
 		<!-- O. Henry Encore (original transcription) -->
 		<dc:source>https://catalog.hathitrust.org/Record/007926272</dc:source>
-		<meta property="se:word-count">911696</meta>
+		<meta property="se:word-count">911695</meta>
 		<meta property="se:reading-ease.flesch">72.97</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/O._Henry#Short_stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/o-henry_short-fiction</meta>
