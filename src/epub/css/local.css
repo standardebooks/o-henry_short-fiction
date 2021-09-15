@@ -270,15 +270,21 @@ i [epub|type~="z3998:persona"]{
 	border-top: 1px solid;
 }
 
-#in-mezzotint div{
+#a-night-in-new-arabia header{
+	font-variant: small-caps;
+	margin: 3em auto;
+}
+
+#in-mezzotint blockquote{
 	border: 2px solid;
-	margin: 1em auto;
+	margin-left: auto;
+	margin-right: auto;
 	padding: 1em 0;
 	text-align: center;
 	width: 9em;
 }
 
-#in-mezzotint div > p{
+#in-mezzotint blockquote > p{
 	font-size: large;
 	font-weight: bold;
 	text-indent: 0;
