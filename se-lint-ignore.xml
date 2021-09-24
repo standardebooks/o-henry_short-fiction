@@ -12,6 +12,12 @@
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
+	<file path="the-vitagraphoscope.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>Matched text is not a typo.</reason>
+		</ignore>
+	</file>
 	<file path="a-snapshot-at-the-president.xhtml">
 		<ignore>
 			<code>t-003</code>
