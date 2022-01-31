@@ -30,9 +30,9 @@ blockquote[xml|lang]{
 }
 
 [epub|type~="epigraph"] cite{
-	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+	margin-top: 1em;
 }
 
 [epub|type~="epigraph"] cite i{
@@ -143,8 +143,8 @@ footer{
 
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
-	text-indent: 0;
 	text-align: initial;
+	text-indent: 0;
 }
 /* end of letter */
 
@@ -188,8 +188,8 @@ footer{
 }
 
 [epub|type~="z3998:drama"] td{
-	vertical-align: top;
 	padding: .5em;
+	vertical-align: top;
 }
 
 [epub|type~="z3998:drama"] td:last-child{
@@ -329,9 +329,9 @@ i [epub|type~="z3998:persona"]{
 
 #the-vitagraphoscope header{
 	font-variant: small-caps;
-	text-align: center;
-	margin-top: 2em;
 	margin-bottom: 1em;
+	margin-top: 2em;
+	text-align: center;
 }
 
 #the-vitagraphoscope header p:nth-child(2){
