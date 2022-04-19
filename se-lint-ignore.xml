@@ -44,7 +44,7 @@
 	</file>
 	<file path="the-higher-abdication.xhtml">
 		<ignore>
-			<code>t-043</code>
+			<code>t-042</code>
 			<reason>Matched text are not dialog tags.</reason>
 		</ignore>
 	</file>
