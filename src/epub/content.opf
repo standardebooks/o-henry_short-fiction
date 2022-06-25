@@ -36,6 +36,7 @@
 		<meta property="term" refines="#subject-2">sh85121819</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of O. Henry short stories, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;William Sydney Porter, known to readers as &lt;a href="https://standardebooks.org/ebooks/o-henry"&gt;&lt;abbr&gt;O.&lt;/abbr&gt; Henry&lt;/a&gt;, was a true raconteur. As a draftsman, a bank teller, a newspaper writer, a fugitive from justice in Central America, and a writer living in New York City, he told stories at each stop and about each stop. His stories are known for their vivid characters who come to life, and sometimes death, in only a few pages. But the most famous characteristic of &lt;abbr&gt;O.&lt;/abbr&gt; Henry’s stories are the famous “twist” endings, where the outcome comes as a surprise both to the characters and the readers. &lt;abbr&gt;O.&lt;/abbr&gt; Henry’s work was widely recognized and lauded, so much so that a few years after his death an award was founded in his name to recognize the best American short story (now stories) of the year.&lt;/p&gt;
