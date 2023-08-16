@@ -2,19 +2,19 @@
 <se-lint-ignore>
 	<file path="a-night-in-new-arabia.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-003</code>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="the-dream.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-003</code>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="the-vitagraphoscope.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-003</code>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
@@ -44,7 +44,7 @@
 	</file>
 	<file path="the-higher-abdication.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-031</code>
 			<reason>Matched text are not dialog tags.</reason>
 		</ignore>
 	</file>
