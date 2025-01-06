@@ -370,3 +370,7 @@ i [epub|type~="z3998:persona"]{
 .editorial + p{
 	text-indent: 0;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
