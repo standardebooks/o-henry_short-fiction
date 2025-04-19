@@ -138,8 +138,8 @@
 		<dc:contributor id="transcriber-10">Vince Rice</dc:contributor>
 		<meta property="file-as" refines="#transcriber-10">Rice, Vince</meta>
 		<meta property="role" refines="#transcriber-10" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-11">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-11">Online Distributed Proofreading Team, The</meta>
+		<dc:contributor id="transcriber-11">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-11">Distributed Proofreaders</meta>
 		<meta property="role" refines="#transcriber-11" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Vince Rice</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Rice, Vince</meta>
