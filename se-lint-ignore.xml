@@ -6,18 +6,6 @@
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
-	<file path="the-dream.xhtml">
-		<ignore>
-			<code>y-003</code>
-			<reason>Matched text is not a typo.</reason>
-		</ignore>
-	</file>
-	<file path="the-vitagraphoscope.xhtml">
-		<ignore>
-			<code>y-003</code>
-			<reason>Matched text is not a typo.</reason>
-		</ignore>
-	</file>
 	<file path="a-snapshot-at-the-president.xhtml">
 		<ignore>
 			<code>t-003</code>
@@ -42,6 +30,12 @@
 			<reason>Quotes are for a single word, not dialog.</reason>
 		</ignore>
 	</file>
+	<file path="the-dream.xhtml">
+		<ignore>
+			<code>y-003</code>
+			<reason>Matched text is not a typo.</reason>
+		</ignore>
+	</file>
 	<file path="the-higher-abdication.xhtml">
 		<ignore>
 			<code>y-031</code>
@@ -56,6 +50,12 @@
 		<ignore>
 			<code>t-032</code>
 			<reason>Stock ticker symbols are set without periods so the placement is correct.</reason>
+		</ignore>
+	</file>
+	<file path="the-vitagraphoscope.xhtml">
+		<ignore>
+			<code>y-003</code>
+			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
