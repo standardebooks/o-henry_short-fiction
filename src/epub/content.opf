@@ -37,6 +37,9 @@
 		<meta property="term" refines="#subject-2">sh85121819</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="se:title-in-collection" refines="#collection-1">The Gentle Grafter</meta>
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of O. Henry short stories, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
