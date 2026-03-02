@@ -1,60 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="a-night-in-new-arabia.xhtml">
-		<ignore>
-			<code>y-003</code>
+		<ignore code="y-003">
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="a-snapshot-at-the-president.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>Matched text is part of longer dialog.</reason>
 		</ignore>
 	</file>
 	<file path="christmas-by-injunction.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>Matched text is part of longer dialog.</reason>
 		</ignore>
 	</file>
 	<file path="let-me-feel-your-pulse.xhtml">
-		<ignore>
-			<code>t-005</code>
+		<ignore code="t-005">
 			<reason>Quotes are for a single word, not dialog.</reason>
 		</ignore>
 	</file>
 	<file path="sociology-in-serge-and-straw.xhtml">
-		<ignore>
-			<code>t-005</code>
+		<ignore code="t-005">
 			<reason>Quotes are for a single word, not dialog.</reason>
 		</ignore>
 	</file>
 	<file path="the-dream.xhtml">
-		<ignore>
-			<code>y-003</code>
+		<ignore code="y-003">
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="the-higher-abdication.xhtml">
-		<ignore>
-			<code>y-031</code>
+		<ignore code="y-031">
 			<reason>Matched text are not dialog tags.</reason>
 		</ignore>
 	</file>
 	<file path="the-roads-we-take.xhtml">
-		<ignore>
-			<code>t-030</code>
+		<ignore code="t-030">
 			<reason>Stock ticker symbols are set without periods.</reason>
 		</ignore>
-		<ignore>
-			<code>t-032</code>
+		<ignore code="t-032">
 			<reason>Stock ticker symbols are set without periods so the placement is correct.</reason>
 		</ignore>
 	</file>
 	<file path="the-vitagraphoscope.xhtml">
-		<ignore>
-			<code>y-003</code>
+		<ignore code="y-003">
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
