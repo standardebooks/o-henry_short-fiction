@@ -18,19 +18,6 @@
 			<reason>Matched text is part of longer dialog.</reason>
 		</ignore>
 	</file>
-	<file path="let-me-feel-your-pulse.xhtml">
-		<ignore code="t-005">
-			<line>15</line>
-			<reason>Quotes are for a single word, not dialog.</reason>
-		</ignore>
-	</file>
-	<file path="sociology-in-serge-and-straw.xhtml">
-		<ignore code="t-005">
-			<line>48</line>
-			<line>56</line>
-			<reason>Quotes are for a single word, not dialog.</reason>
-		</ignore>
-	</file>
 	<file path="the-dream.xhtml">
 		<ignore code="y-003">
 			<line>30</line>
