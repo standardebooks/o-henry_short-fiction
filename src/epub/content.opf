@@ -40,7 +40,7 @@
 		<meta property="schema:genre">Shorts</meta>
 		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<meta property="schema:hasPart" refines="#collection-1" id="collection-1-entry-1">schema:hasPart</meta>
+		<meta id="collection-1-entry-1" property="schema:hasPart" refines="#collection-1">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-1-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-1-entry-1">The Gentle Grafter</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
@@ -113,7 +113,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Christopher R. W. Nevinson</dc:contributor>
 		<meta property="file-as" refines="#artist">Nevinson, Christopher R. W.</meta>
-		<meta property="schema:alternateName" refines="#author">Christopher Richard Wynne Nevinson</meta>
+		<meta property="schema:alternateName" refines="#artist">Christopher Richard Wynne Nevinson</meta>
 		<link href="https://en.wikipedia.org/wiki/Christopher_R._W._Nevinson" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n86139912.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
@@ -146,9 +146,11 @@
 		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-10">Vince Rice</dc:contributor>
 		<meta property="file-as" refines="#transcriber-10">Rice, Vince</meta>
+		<link href="https://www.brokenandsaved.com/" refines="#transcriber-10" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-10" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-11">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-11">Distributed Proofreaders</meta>
+		<link href="https://www.pgdp.net/" refines="#transcriber-11" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-11" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Vince Rice</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Rice, Vince</meta>
@@ -161,7 +163,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
-		<link href="http://www.robinwhittleton.com/" refines="#producer-2" rel="schema:url"/>
+		<link href="https://www.robinwhittleton.com/" refines="#producer-2" rel="schema:url"/>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
